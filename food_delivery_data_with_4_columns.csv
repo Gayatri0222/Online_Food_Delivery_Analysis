@@ -1,0 +1,1001 @@
+Customer ID,Age,Preferred Platform,Order Frequency,Order Type,Delivery Time Preference,Delivery Speed Preference,Satisfaction Rating,Payment Method,Discount Usage,Restaurant Rating,Order Size
+CUST0001,58,Uber Eats,Weekly,Healthy Food,Evening,Fast,1.181968758517273,UPI,No,2.4986055548906334,Large
+CUST0002,25,Swiggy,Weekly,Desserts,Afternoon,Fast,2.398600177777275,Credit Card,No,3.8161887864569444,Medium
+CUST0003,19,Uber Eats,Weekly,Fast Food,Morning,Slow,4.224174071475969,UPI,No,1.7920821156046167,Small
+CUST0004,65,Uber Eats,Weekly,Beverages,Morning,Slow,1.8493517342596428,Debit Card,No,1.7279373259131234,Large
+CUST0005,35,Uber Eats,Occasionally,Fast Food,Afternoon,Slow,3.5624732435103397,Credit Card,Yes,4.793933245844789,Large
+CUST0006,33,Zomato,Daily,Desserts,Afternoon,Medium,3.7600682461746544,Debit Card,Yes,2.802643137189511,Small
+CUST0007,32,Uber Eats,Occasionally,Beverages,Evening,Medium,2.017670088714227,UPI,Yes,4.257481819765966,Medium
+CUST0008,26,Swiggy,Monthly,Fast Food,Evening,Fast,1.2713442536524697,UPI,No,1.7425521672052398,Medium
+CUST0009,65,Swiggy,Weekly,Fast Food,Afternoon,Medium,2.2011359783020503,Cash on Delivery,No,1.2359282597874324,Large
+CUST0010,24,Swiggy,Occasionally,Healthy Food,Morning,Fast,3.1999743975378223,Cash on Delivery,Yes,1.7309175970905608,Large
+CUST0011,61,Swiggy,Monthly,Desserts,Night,Medium,4.068130403939821,UPI,Yes,4.036658739801789,Small
+CUST0012,65,Uber Eats,Occasionally,Desserts,Evening,Slow,1.4553470517944032,Debit Card,Yes,2.0374076659365628,Large
+CUST0013,52,Swiggy,Weekly,Desserts,Afternoon,Fast,2.3331315619159216,Credit Card,No,4.609093155611024,Small
+CUST0014,23,Swiggy,Weekly,Beverages,Morning,Slow,2.5841973043798396,Debit Card,No,2.635169608614756,Small
+CUST0015,55,Uber Eats,Monthly,Healthy Food,Morning,Slow,3.2756861631868284,Debit Card,Yes,3.5073495183280525,Large
+CUST0016,45,Uber Eats,Occasionally,Beverages,Evening,Slow,4.840451301011961,Debit Card,Yes,3.497685823118551,Medium
+CUST0017,20,Zomato,Weekly,Desserts,Evening,Slow,4.328171079624566,Debit Card,No,4.473447967661429,Medium
+CUST0018,19,Uber Eats,Monthly,Beverages,Night,Medium,1.776062319592083,Credit Card,Yes,1.6645045304241717,Large
+CUST0019,23,Uber Eats,Occasionally,Fast Food,Evening,Medium,4.335301200686003,Cash on Delivery,No,2.1725023414405302,Small
+CUST0020,31,Zomato,Occasionally,Beverages,Night,Slow,4.68911906100729,Cash on Delivery,Yes,2.5109141506159776,Medium
+CUST0021,32,Zomato,Monthly,Beverages,Afternoon,Slow,2.916433093433471,Credit Card,Yes,2.1070488114435206,Small
+CUST0022,50,Uber Eats,Occasionally,Desserts,Evening,Slow,2.898001813806724,Credit Card,No,2.368607670952876,Small
+CUST0023,56,Zomato,Occasionally,Fast Food,Night,Medium,1.1422330035463637,Debit Card,No,3.342585600458983,Large
+CUST0024,19,Swiggy,Weekly,Desserts,Evening,Medium,1.5430155837981556,Credit Card,Yes,2.9115884746669036,Medium
+CUST0025,53,Uber Eats,Weekly,Fast Food,Afternoon,Fast,1.621545154666915,Cash on Delivery,Yes,3.6912183690230127,Small
+CUST0026,30,Zomato,Weekly,Fast Food,Afternoon,Fast,2.8424717453735564,UPI,Yes,1.4032365682574084,Large
+CUST0027,63,Zomato,Monthly,Fast Food,Night,Fast,4.460897402076945,UPI,No,1.2442258675718527,Small
+CUST0028,59,Zomato,Daily,Desserts,Morning,Fast,4.583714405748536,UPI,No,4.007194785929135,Large
+CUST0029,62,Zomato,Occasionally,Fast Food,Afternoon,Medium,2.849880301475198,Debit Card,No,1.028906633416482,Small
+CUST0030,52,Uber Eats,Monthly,Healthy Food,Afternoon,Fast,4.256666493831666,Cash on Delivery,No,3.329781794226383,Small
+CUST0031,44,Zomato,Daily,Healthy Food,Afternoon,Slow,4.711159907060404,UPI,No,4.95047533636866,Large
+CUST0032,32,Zomato,Daily,Healthy Food,Afternoon,Medium,1.2240891407461683,Debit Card,No,1.3873674038370951,Large
+CUST0033,46,Zomato,Monthly,Healthy Food,Morning,Slow,3.084292897562496,UPI,Yes,3.0893381771977704,Small
+CUST0034,55,Swiggy,Daily,Desserts,Afternoon,Medium,3.259770563988809,Credit Card,Yes,1.0290478281875193,Large
+CUST0035,35,Swiggy,Weekly,Beverages,Morning,Medium,3.7127904985994946,Credit Card,Yes,3.411939487459484,Small
+CUST0036,18,Uber Eats,Monthly,Beverages,Evening,Slow,3.2207088332142075,Debit Card,No,4.9475873697417345,Large
+CUST0037,28,Uber Eats,Occasionally,Healthy Food,Morning,Slow,1.0748737218458193,Debit Card,Yes,4.045455880935067,Large
+CUST0038,62,Swiggy,Weekly,Beverages,Night,Medium,3.3095905687061933,Debit Card,No,4.728513523516838,Large
+CUST0039,45,Swiggy,Occasionally,Healthy Food,Evening,Fast,2.326877170787314,Debit Card,No,2.8929271327528845,Large
+CUST0040,39,Zomato,Daily,Healthy Food,Morning,Medium,4.664745804310723,UPI,Yes,2.3481198729387387,Large
+CUST0041,35,Zomato,Weekly,Beverages,Morning,Fast,4.183131198692189,Debit Card,Yes,2.717814485327905,Large
+CUST0042,27,Swiggy,Occasionally,Beverages,Morning,Fast,1.2648521652702476,Debit Card,No,2.483140488918423,Medium
+CUST0043,31,Uber Eats,Monthly,Fast Food,Morning,Fast,1.5972196245330577,Debit Card,Yes,4.560608784648103,Medium
+CUST0044,39,Swiggy,Daily,Healthy Food,Morning,Slow,4.362956614231264,Credit Card,Yes,4.997780541039223,Small
+CUST0045,24,Uber Eats,Occasionally,Beverages,Morning,Fast,2.3566096718197693,Cash on Delivery,No,4.267388768184096,Medium
+CUST0046,23,Swiggy,Daily,Beverages,Night,Fast,2.500963110521759,Credit Card,Yes,4.763964186942894,Medium
+CUST0047,42,Zomato,Occasionally,Beverages,Night,Fast,3.1370927048446466,Credit Card,Yes,3.66031314130042,Medium
+CUST0048,24,Uber Eats,Monthly,Fast Food,Night,Medium,1.6638779512340318,Credit Card,No,2.513742792928489,Large
+CUST0049,40,Zomato,Weekly,Healthy Food,Morning,Medium,3.422756355689951,Cash on Delivery,No,1.2289661757738903,Medium
+CUST0050,40,Swiggy,Occasionally,Healthy Food,Evening,Fast,1.7495156405923327,Cash on Delivery,No,2.4241169355236716,Small
+CUST0051,56,Uber Eats,Daily,Desserts,Night,Slow,1.4673785526929404,Credit Card,No,2.321021014638847,Large
+CUST0052,34,Uber Eats,Monthly,Fast Food,Afternoon,Medium,4.129375748382216,Debit Card,No,1.4007094503368336,Large
+CUST0053,20,Uber Eats,Weekly,Fast Food,Afternoon,Slow,2.2331256778617554,Credit Card,No,2.8276770374340265,Medium
+CUST0054,64,Zomato,Daily,Healthy Food,Morning,Fast,4.431277910307031,Credit Card,No,3.7932330787720785,Small
+CUST0055,47,Swiggy,Monthly,Desserts,Evening,Fast,3.8393600592502417,Credit Card,Yes,3.900880749089156,Small
+CUST0056,52,Zomato,Daily,Desserts,Night,Fast,2.0859896663984525,Cash on Delivery,Yes,4.551882205159578,Large
+CUST0057,25,Uber Eats,Monthly,Healthy Food,Morning,Fast,1.3471911399678715,Credit Card,No,1.555452109148515,Large
+CUST0058,42,Zomato,Weekly,Beverages,Evening,Fast,4.508194930483169,UPI,No,3.4076367057232417,Small
+CUST0059,23,Uber Eats,Weekly,Fast Food,Afternoon,Medium,2.486334307548592,Credit Card,No,4.476021126825492,Small
+CUST0060,53,Zomato,Daily,Desserts,Night,Fast,4.3178298756696805,Credit Card,Yes,2.117870120735822,Large
+CUST0061,36,Swiggy,Monthly,Beverages,Morning,Medium,2.2105148201030453,UPI,No,3.797058485491268,Large
+CUST0062,58,Zomato,Occasionally,Desserts,Morning,Medium,3.100401678750464,Credit Card,Yes,4.260207034603883,Medium
+CUST0063,57,Zomato,Weekly,Beverages,Evening,Medium,1.7000509831974289,Credit Card,No,2.4737195805286785,Small
+CUST0064,41,Zomato,Occasionally,Beverages,Morning,Medium,2.4968627627177233,Credit Card,No,3.4734067823345924,Small
+CUST0065,54,Zomato,Occasionally,Fast Food,Morning,Medium,1.149580144220304,Debit Card,Yes,3.63550442069331,Small
+CUST0066,30,Swiggy,Daily,Desserts,Night,Medium,1.8083936546252324,Debit Card,No,2.9007977102671263,Medium
+CUST0067,63,Uber Eats,Daily,Desserts,Afternoon,Slow,1.3704164756469157,Debit Card,No,2.652506371147287,Large
+CUST0068,22,Uber Eats,Daily,Beverages,Afternoon,Fast,3.0239787705223193,UPI,Yes,1.7517397404649584,Small
+CUST0069,20,Uber Eats,Monthly,Healthy Food,Evening,Medium,4.196101113637185,Credit Card,No,4.944725621881284,Medium
+CUST0070,60,Swiggy,Weekly,Desserts,Afternoon,Fast,4.619823202492425,Credit Card,No,4.830188570676377,Small
+CUST0071,32,Swiggy,Weekly,Fast Food,Evening,Fast,1.6163111087742945,Debit Card,Yes,4.250476191108929,Medium
+CUST0072,36,Zomato,Occasionally,Healthy Food,Night,Fast,2.360463616956376,UPI,Yes,1.0665212164454845,Medium
+CUST0073,23,Swiggy,Daily,Desserts,Evening,Medium,2.933887771738799,UPI,Yes,2.440822448534801,Small
+CUST0074,32,Uber Eats,Monthly,Fast Food,Afternoon,Medium,4.495516375411389,UPI,No,1.1830171337603796,Medium
+CUST0075,24,Swiggy,Weekly,Healthy Food,Morning,Fast,2.241434835658467,Debit Card,Yes,4.230231247419507,Small
+CUST0076,42,Uber Eats,Monthly,Desserts,Night,Slow,2.3093518061427782,Debit Card,Yes,2.3021007978299086,Small
+CUST0077,35,Swiggy,Daily,Fast Food,Afternoon,Medium,4.077925588840216,Credit Card,Yes,2.7772246370780063,Medium
+CUST0078,47,Swiggy,Daily,Healthy Food,Night,Fast,1.393006259862736,Credit Card,Yes,3.427052065269236,Large
+CUST0079,58,Uber Eats,Weekly,Desserts,Evening,Fast,4.929093895495648,Credit Card,Yes,2.600660763359208,Medium
+CUST0080,41,Uber Eats,Occasionally,Healthy Food,Afternoon,Medium,3.064586480758109,Debit Card,No,3.4503693817246073,Medium
+CUST0081,28,Swiggy,Occasionally,Beverages,Morning,Medium,4.97088137664548,Debit Card,Yes,1.3254769250254022,Small
+CUST0082,41,Swiggy,Daily,Beverages,Morning,Fast,1.8207484401634524,UPI,Yes,2.7116651218856793,Small
+CUST0083,40,Zomato,Daily,Healthy Food,Morning,Fast,1.1462101477196338,Debit Card,Yes,4.725933877869773,Small
+CUST0084,31,Uber Eats,Occasionally,Beverages,Morning,Slow,2.55035286288492,Credit Card,Yes,4.723378016833124,Large
+CUST0085,60,Zomato,Daily,Beverages,Night,Fast,4.4592408097489145,Credit Card,No,4.947485853980154,Medium
+CUST0086,35,Swiggy,Weekly,Healthy Food,Afternoon,Medium,1.4633439482483226,Debit Card,Yes,4.428400000914923,Medium
+CUST0087,62,Uber Eats,Weekly,Beverages,Morning,Medium,2.243925271401922,Cash on Delivery,Yes,4.6208110481636435,Medium
+CUST0088,61,Swiggy,Monthly,Healthy Food,Morning,Fast,1.1761198546604015,UPI,No,3.937110971953229,Medium
+CUST0089,59,Uber Eats,Occasionally,Healthy Food,Morning,Slow,4.3924960969176166,Debit Card,Yes,2.1754518928281605,Medium
+CUST0090,22,Swiggy,Daily,Beverages,Evening,Fast,4.487500372143861,Cash on Delivery,No,1.7803078207952372,Large
+CUST0091,56,Zomato,Monthly,Desserts,Afternoon,Fast,2.3331590135954587,Credit Card,No,1.5726457795458648,Small
+CUST0092,58,Zomato,Weekly,Healthy Food,Night,Medium,4.556743503991955,Debit Card,Yes,3.0802177153895496,Small
+CUST0093,28,Zomato,Occasionally,Healthy Food,Evening,Slow,1.4124113178425342,UPI,No,3.287570499922691,Large
+CUST0094,52,Uber Eats,Weekly,Desserts,Evening,Fast,4.064720739691981,Cash on Delivery,Yes,4.427210441728402,Medium
+CUST0095,64,Uber Eats,Daily,Beverages,Night,Slow,3.9822189006948707,Cash on Delivery,No,3.018546463005118,Small
+CUST0096,33,Uber Eats,Monthly,Fast Food,Morning,Slow,1.0899210446345755,Debit Card,No,1.5114454179383827,Medium
+CUST0097,28,Zomato,Daily,Desserts,Morning,Fast,4.033975282673326,Debit Card,Yes,4.187283041688499,Medium
+CUST0098,47,Uber Eats,Daily,Fast Food,Afternoon,Medium,3.555403408173787,Cash on Delivery,No,2.205393219958368,Medium
+CUST0099,42,Swiggy,Occasionally,Beverages,Morning,Medium,1.839382747437965,Credit Card,Yes,3.692248642334483,Medium
+CUST0100,35,Uber Eats,Occasionally,Healthy Food,Evening,Slow,1.8022220490141403,UPI,No,3.1949866410261274,Large
+CUST0101,58,Zomato,Daily,Healthy Food,Evening,Medium,2.1462695085003833,Credit Card,No,4.499143107736201,Large
+CUST0102,62,Zomato,Occasionally,Beverages,Evening,Medium,3.129103223060065,Cash on Delivery,No,1.6722114055278472,Small
+CUST0103,53,Swiggy,Monthly,Beverages,Night,Fast,4.091148389611114,Credit Card,Yes,2.785146801324225,Medium
+CUST0104,32,Uber Eats,Monthly,Beverages,Morning,Slow,3.6844961678281676,Debit Card,Yes,1.4627145672490758,Medium
+CUST0105,61,Uber Eats,Daily,Beverages,Morning,Slow,2.090616826692841,Cash on Delivery,Yes,3.6505684417685242,Large
+CUST0106,38,Swiggy,Monthly,Beverages,Morning,Fast,1.6299840591441654,UPI,Yes,1.9636064542340037,Large
+CUST0107,21,Swiggy,Daily,Beverages,Morning,Slow,1.4578415756004066,UPI,No,1.8465632847080529,Medium
+CUST0108,32,Zomato,Monthly,Beverages,Afternoon,Slow,4.833192218033819,Credit Card,Yes,4.0130100829663835,Medium
+CUST0109,20,Uber Eats,Weekly,Healthy Food,Afternoon,Slow,3.238503054203411,Credit Card,Yes,3.638980409500271,Small
+CUST0110,38,Swiggy,Daily,Fast Food,Evening,Fast,1.4095011713080816,UPI,No,1.357727262540748,Large
+CUST0111,43,Uber Eats,Monthly,Fast Food,Evening,Medium,3.1701148554777543,Cash on Delivery,Yes,2.7395736275124984,Medium
+CUST0112,35,Swiggy,Weekly,Healthy Food,Night,Medium,3.1974626278425724,Credit Card,Yes,3.8630606242782406,Large
+CUST0113,22,Zomato,Daily,Desserts,Evening,Slow,2.08420840327611,Cash on Delivery,No,1.6409411111177046,Medium
+CUST0114,31,Swiggy,Monthly,Fast Food,Morning,Medium,4.773111274968198,UPI,No,4.715869436457776,Medium
+CUST0115,54,Swiggy,Monthly,Desserts,Evening,Fast,4.21601135382854,Cash on Delivery,Yes,4.610594075426155,Large
+CUST0116,63,Swiggy,Weekly,Healthy Food,Evening,Medium,3.2963317705638726,UPI,Yes,4.06523529530638,Small
+CUST0117,38,Swiggy,Occasionally,Desserts,Afternoon,Fast,1.6850999018920323,Cash on Delivery,No,1.88150413987562,Large
+CUST0118,31,Swiggy,Occasionally,Healthy Food,Morning,Slow,2.245510238804307,Debit Card,Yes,2.0305141707042655,Large
+CUST0119,59,Uber Eats,Weekly,Beverages,Night,Fast,4.5689724188667205,Cash on Delivery,Yes,2.905209271654602,Small
+CUST0120,49,Zomato,Weekly,Beverages,Night,Fast,3.162308408130635,UPI,Yes,4.590043534952439,Large
+CUST0121,43,Zomato,Daily,Fast Food,Night,Fast,1.2029047349117397,Cash on Delivery,No,1.492392440601479,Small
+CUST0122,59,Swiggy,Occasionally,Fast Food,Evening,Slow,1.1159707448105682,Debit Card,No,1.543025729737764,Large
+CUST0123,47,Swiggy,Daily,Desserts,Night,Medium,4.613169630631683,Credit Card,Yes,3.138173211620694,Large
+CUST0124,27,Uber Eats,Monthly,Desserts,Night,Medium,1.201824042377678,Cash on Delivery,No,3.9016576257931823,Small
+CUST0125,34,Swiggy,Weekly,Fast Food,Night,Fast,2.5343985573589762,UPI,Yes,1.3617670177084342,Small
+CUST0126,26,Swiggy,Daily,Beverages,Afternoon,Fast,1.3444783218641798,Debit Card,No,3.7671381930351586,Small
+CUST0127,33,Uber Eats,Weekly,Healthy Food,Morning,Medium,2.56766704258272,Credit Card,No,4.487762428039497,Medium
+CUST0128,65,Swiggy,Daily,Beverages,Afternoon,Slow,3.8187103747165607,Cash on Delivery,No,4.7271198205939555,Medium
+CUST0129,53,Uber Eats,Monthly,Fast Food,Morning,Fast,4.565103578351623,Credit Card,No,4.065349546785578,Small
+CUST0130,52,Zomato,Monthly,Healthy Food,Afternoon,Medium,3.5178827594570636,Cash on Delivery,Yes,3.4027176816662257,Large
+CUST0131,34,Swiggy,Occasionally,Desserts,Morning,Fast,3.7604995876361578,Cash on Delivery,Yes,3.575946162439161,Medium
+CUST0132,65,Zomato,Occasionally,Fast Food,Night,Fast,2.7833450620268385,Credit Card,Yes,2.5080412897517417,Small
+CUST0133,55,Swiggy,Monthly,Beverages,Night,Fast,2.4224972520005896,Credit Card,Yes,3.8697709364583437,Small
+CUST0134,45,Swiggy,Daily,Desserts,Night,Slow,2.3293283825350395,Debit Card,Yes,3.9440099515029217,Medium
+CUST0135,55,Swiggy,Weekly,Desserts,Afternoon,Slow,1.7925885532170138,Cash on Delivery,No,2.5266020194864165,Medium
+CUST0136,43,Zomato,Monthly,Fast Food,Night,Medium,4.0336101851126624,Cash on Delivery,No,3.568408810647782,Large
+CUST0137,41,Swiggy,Monthly,Beverages,Evening,Slow,4.237199292584805,Credit Card,Yes,3.2475997795536515,Small
+CUST0138,32,Uber Eats,Daily,Fast Food,Morning,Slow,1.3141824297214115,Debit Card,No,4.424564046769209,Medium
+CUST0139,26,Zomato,Monthly,Healthy Food,Afternoon,Fast,4.691135965458837,Credit Card,Yes,4.2337899277617765,Medium
+CUST0140,50,Uber Eats,Monthly,Healthy Food,Night,Medium,4.057713135054569,UPI,No,1.8942033427683693,Medium
+CUST0141,49,Uber Eats,Daily,Desserts,Night,Fast,3.271157209032633,Debit Card,No,1.462759861081138,Large
+CUST0142,23,Swiggy,Monthly,Beverages,Morning,Fast,1.371664697314829,UPI,No,1.3507213625723873,Large
+CUST0143,21,Swiggy,Occasionally,Healthy Food,Night,Fast,4.209401992550165,Debit Card,Yes,1.3565577071976018,Medium
+CUST0144,25,Zomato,Occasionally,Healthy Food,Night,Medium,3.7943976363025875,Cash on Delivery,No,3.9623248753607414,Small
+CUST0145,27,Zomato,Occasionally,Healthy Food,Morning,Fast,1.389051987397199,Credit Card,Yes,4.748842602615248,Small
+CUST0146,58,Uber Eats,Occasionally,Healthy Food,Morning,Slow,2.2415667380236974,Debit Card,No,3.9784710091950797,Small
+CUST0147,28,Swiggy,Monthly,Fast Food,Evening,Slow,3.5776744398539035,Cash on Delivery,Yes,1.4644248954307737,Large
+CUST0148,61,Uber Eats,Weekly,Desserts,Evening,Medium,4.065973981183665,Cash on Delivery,Yes,2.470948103887363,Small
+CUST0149,45,Swiggy,Occasionally,Desserts,Morning,Slow,2.8821834990887107,UPI,No,4.413321236174473,Medium
+CUST0150,56,Uber Eats,Occasionally,Healthy Food,Afternoon,Fast,4.789793080800607,UPI,Yes,4.816274475461098,Medium
+CUST0151,22,Swiggy,Monthly,Desserts,Evening,Fast,1.5748867351143438,Cash on Delivery,Yes,3.307667366770443,Small
+CUST0152,42,Zomato,Monthly,Desserts,Morning,Medium,4.582803446559372,UPI,Yes,1.0067139658569966,Medium
+CUST0153,42,Zomato,Daily,Desserts,Night,Slow,2.0322110626954317,Cash on Delivery,No,1.2475397464650801,Medium
+CUST0154,56,Swiggy,Occasionally,Desserts,Afternoon,Fast,2.4537973818801913,Cash on Delivery,No,3.142412161524822,Small
+CUST0155,47,Uber Eats,Daily,Fast Food,Night,Slow,1.7334122866277282,Cash on Delivery,No,4.388474386577174,Medium
+CUST0156,51,Zomato,Occasionally,Healthy Food,Evening,Slow,4.669057687079329,UPI,Yes,4.9193979926019455,Medium
+CUST0157,34,Swiggy,Weekly,Beverages,Night,Fast,2.3213118251794187,Debit Card,Yes,2.2785719564938813,Large
+CUST0158,53,Swiggy,Monthly,Fast Food,Afternoon,Fast,4.44316637165558,Cash on Delivery,Yes,2.460095369741861,Medium
+CUST0159,18,Uber Eats,Monthly,Desserts,Morning,Medium,2.2990443543578105,Credit Card,No,3.7172086815215692,Small
+CUST0160,61,Swiggy,Daily,Healthy Food,Morning,Fast,2.9500269302804507,Credit Card,Yes,4.186261210629564,Large
+CUST0161,64,Zomato,Daily,Healthy Food,Afternoon,Medium,1.26146079526348,UPI,Yes,3.0790055293960203,Large
+CUST0162,25,Zomato,Monthly,Healthy Food,Night,Slow,1.4515482292008643,Cash on Delivery,No,3.406470554792165,Medium
+CUST0163,61,Uber Eats,Monthly,Healthy Food,Night,Slow,2.914608343280604,Cash on Delivery,No,1.8885662289436436,Small
+CUST0164,52,Uber Eats,Monthly,Desserts,Afternoon,Medium,4.383065049970195,Debit Card,Yes,2.58124953535761,Medium
+CUST0165,35,Zomato,Occasionally,Healthy Food,Morning,Medium,2.129029475687191,Debit Card,Yes,3.153171773325265,Medium
+CUST0166,59,Uber Eats,Occasionally,Beverages,Night,Slow,2.3944617689979144,Credit Card,No,2.842411080477423,Small
+CUST0167,39,Zomato,Weekly,Beverages,Evening,Fast,3.2987130322275755,Credit Card,No,1.578803146366714,Large
+CUST0168,25,Swiggy,Occasionally,Healthy Food,Afternoon,Fast,3.031798663822776,Credit Card,Yes,4.77155963471006,Small
+CUST0169,36,Uber Eats,Monthly,Desserts,Evening,Slow,2.622743928955581,Credit Card,Yes,4.348866618242986,Medium
+CUST0170,45,Zomato,Occasionally,Beverages,Evening,Medium,3.857092344664269,Cash on Delivery,Yes,2.999330660104183,Small
+CUST0171,28,Uber Eats,Daily,Beverages,Morning,Medium,1.4279251791796006,Credit Card,No,2.82313812218384,Large
+CUST0172,47,Swiggy,Monthly,Beverages,Afternoon,Slow,3.2245994403794827,Debit Card,No,3.40586165438273,Small
+CUST0173,18,Zomato,Occasionally,Fast Food,Night,Fast,1.2836959598192852,Cash on Delivery,No,1.5834827943760135,Medium
+CUST0174,64,Zomato,Monthly,Fast Food,Night,Medium,2.2084725061877237,UPI,No,3.6614028170444803,Large
+CUST0175,64,Zomato,Daily,Beverages,Afternoon,Fast,2.843899410987391,Debit Card,No,4.205167020194271,Small
+CUST0176,34,Swiggy,Daily,Desserts,Morning,Medium,3.36214382688528,UPI,Yes,3.811867238114591,Large
+CUST0177,50,Zomato,Occasionally,Desserts,Night,Slow,1.9543011671565425,Credit Card,No,3.3955212330859705,Medium
+CUST0178,29,Uber Eats,Monthly,Beverages,Night,Medium,1.9747642441972797,Credit Card,Yes,2.2355657071583863,Small
+CUST0179,50,Zomato,Weekly,Beverages,Night,Slow,1.6360811583367503,Cash on Delivery,Yes,4.961340447920561,Medium
+CUST0180,24,Swiggy,Daily,Desserts,Morning,Medium,2.9294986243193284,Cash on Delivery,Yes,1.4938560507730405,Medium
+CUST0181,58,Uber Eats,Weekly,Fast Food,Night,Slow,1.2642397386048483,Debit Card,No,4.987394417752899,Medium
+CUST0182,37,Swiggy,Occasionally,Fast Food,Night,Slow,1.8329525832508713,UPI,Yes,3.8260890714517815,Small
+CUST0183,58,Uber Eats,Daily,Beverages,Evening,Medium,3.776239442556208,Cash on Delivery,No,2.91313098761669,Small
+CUST0184,50,Uber Eats,Weekly,Desserts,Morning,Fast,2.724593990573703,Cash on Delivery,Yes,4.314749217501433,Small
+CUST0185,56,Swiggy,Daily,Fast Food,Night,Slow,4.920820904831698,UPI,Yes,2.980102100714895,Small
+CUST0186,30,Swiggy,Weekly,Beverages,Morning,Fast,3.2688447769679656,UPI,No,3.8165619065313248,Large
+CUST0187,27,Swiggy,Monthly,Healthy Food,Morning,Slow,2.3688033385433815,Credit Card,No,2.5068345087412767,Medium
+CUST0188,41,Swiggy,Monthly,Beverages,Night,Medium,3.776532627229521,Credit Card,Yes,4.924571180647915,Medium
+CUST0189,28,Zomato,Occasionally,Healthy Food,Night,Medium,1.6923418242517783,Cash on Delivery,No,2.33257818677134,Medium
+CUST0190,52,Swiggy,Daily,Beverages,Morning,Slow,3.678420784410667,Credit Card,No,4.311538777255008,Large
+CUST0191,51,Uber Eats,Weekly,Desserts,Morning,Medium,3.95746817978809,Cash on Delivery,No,1.8424523427507262,Small
+CUST0192,18,Zomato,Occasionally,Desserts,Morning,Medium,3.847635286277183,Cash on Delivery,No,3.9306324104795722,Small
+CUST0193,56,Swiggy,Monthly,Desserts,Evening,Slow,4.346992775399396,UPI,No,4.241674608739368,Small
+CUST0194,38,Zomato,Monthly,Desserts,Afternoon,Slow,1.457291441922281,Cash on Delivery,Yes,3.801629654637741,Small
+CUST0195,49,Uber Eats,Occasionally,Healthy Food,Night,Fast,3.3843019742640386,Cash on Delivery,No,1.2102652169215036,Medium
+CUST0196,19,Uber Eats,Daily,Beverages,Evening,Fast,2.3015123771157175,Cash on Delivery,No,4.461727582694254,Medium
+CUST0197,25,Uber Eats,Weekly,Desserts,Evening,Slow,1.3906156367666438,Credit Card,Yes,1.7160809295409556,Small
+CUST0198,41,Zomato,Monthly,Fast Food,Morning,Fast,2.780864929442823,Credit Card,No,2.950018606406315,Medium
+CUST0199,37,Zomato,Occasionally,Fast Food,Afternoon,Medium,2.232142894145353,Debit Card,No,2.5672314554185203,Large
+CUST0200,33,Swiggy,Monthly,Fast Food,Night,Medium,2.623174788642157,UPI,Yes,4.9375581686202334,Medium
+CUST0201,21,Swiggy,Monthly,Beverages,Evening,Medium,3.393036726377744,Debit Card,Yes,3.637001243602525,Medium
+CUST0202,33,Swiggy,Weekly,Fast Food,Night,Slow,3.7420347277541968,Cash on Delivery,Yes,4.394072984432972,Large
+CUST0203,54,Uber Eats,Daily,Fast Food,Evening,Medium,3.3856216600937654,Cash on Delivery,No,4.96425285999673,Small
+CUST0204,23,Swiggy,Daily,Healthy Food,Night,Medium,4.27946291503045,Debit Card,Yes,3.191771638163494,Large
+CUST0205,23,Zomato,Weekly,Beverages,Morning,Fast,2.309632971712802,UPI,Yes,2.3496405906211573,Medium
+CUST0206,64,Swiggy,Occasionally,Beverages,Morning,Slow,3.579956461792134,Cash on Delivery,Yes,3.711594744724679,Small
+CUST0207,49,Uber Eats,Occasionally,Fast Food,Afternoon,Slow,1.245928886250645,Cash on Delivery,No,4.961257199892614,Small
+CUST0208,22,Swiggy,Daily,Beverages,Morning,Medium,1.8704470937560078,Credit Card,No,4.03085674021729,Small
+CUST0209,52,Uber Eats,Monthly,Healthy Food,Evening,Slow,1.5556669499654032,Cash on Delivery,No,2.564252378696895,Medium
+CUST0210,26,Uber Eats,Monthly,Healthy Food,Evening,Fast,3.3230715663211345,Cash on Delivery,Yes,3.1113777377234277,Medium
+CUST0211,26,Uber Eats,Occasionally,Desserts,Evening,Fast,4.019954044703627,Cash on Delivery,Yes,2.132159479926946,Medium
+CUST0212,60,Swiggy,Weekly,Healthy Food,Evening,Slow,4.239357471471558,Debit Card,Yes,3.7855052627046044,Small
+CUST0213,48,Zomato,Monthly,Desserts,Morning,Medium,4.0283108695365595,Credit Card,No,1.7803687066170175,Small
+CUST0214,53,Swiggy,Occasionally,Fast Food,Morning,Slow,3.6435255750780233,Cash on Delivery,Yes,4.425008879542649,Medium
+CUST0215,28,Uber Eats,Weekly,Desserts,Afternoon,Fast,2.8118976810948793,UPI,No,2.5750898151790964,Medium
+CUST0216,34,Swiggy,Daily,Desserts,Night,Medium,2.1660130140180187,Cash on Delivery,No,1.523602733713942,Medium
+CUST0217,51,Swiggy,Weekly,Fast Food,Afternoon,Slow,3.462288665113789,Cash on Delivery,No,4.0090659198545655,Medium
+CUST0218,56,Swiggy,Daily,Desserts,Night,Fast,2.788639074434835,UPI,No,3.321534719045622,Large
+CUST0219,45,Uber Eats,Occasionally,Healthy Food,Morning,Slow,1.8226467276071543,UPI,Yes,4.220287145797112,Large
+CUST0220,31,Uber Eats,Weekly,Fast Food,Evening,Slow,4.509701410430601,UPI,Yes,4.399238882499201,Small
+CUST0221,52,Swiggy,Occasionally,Beverages,Afternoon,Medium,2.198941337176454,Credit Card,Yes,3.838350126268685,Large
+CUST0222,64,Swiggy,Daily,Desserts,Afternoon,Fast,4.1773866389156655,Credit Card,No,2.8301300005505676,Medium
+CUST0223,62,Swiggy,Monthly,Healthy Food,Morning,Slow,3.7182357103988566,Credit Card,No,1.6547778718816462,Medium
+CUST0224,30,Zomato,Monthly,Beverages,Night,Slow,4.67400649021069,Debit Card,Yes,1.550243837889544,Large
+CUST0225,63,Uber Eats,Daily,Fast Food,Afternoon,Medium,4.74670593246004,UPI,No,3.7838221038115534,Large
+CUST0226,37,Zomato,Monthly,Fast Food,Night,Slow,3.8711648876243916,UPI,Yes,2.1643262772923135,Medium
+CUST0227,43,Uber Eats,Monthly,Fast Food,Afternoon,Fast,4.660471658237714,Credit Card,Yes,1.5792915287544234,Small
+CUST0228,60,Swiggy,Weekly,Healthy Food,Evening,Slow,4.96115702656768,UPI,Yes,1.87254589213009,Large
+CUST0229,59,Zomato,Weekly,Beverages,Morning,Medium,3.330907911304213,Cash on Delivery,No,3.9935300706522185,Large
+CUST0230,41,Swiggy,Monthly,Fast Food,Night,Medium,3.445963024688412,Credit Card,No,3.9412755862247346,Small
+CUST0231,46,Zomato,Weekly,Healthy Food,Morning,Medium,3.041695517426652,Cash on Delivery,Yes,1.0365300584502748,Small
+CUST0232,51,Swiggy,Daily,Healthy Food,Morning,Slow,4.390546981321444,UPI,Yes,3.9038300471347953,Large
+CUST0233,46,Uber Eats,Weekly,Beverages,Night,Medium,4.410020717805167,UPI,No,3.302728387771482,Large
+CUST0234,25,Swiggy,Weekly,Fast Food,Night,Fast,1.249642234123435,Cash on Delivery,Yes,3.7132712240665926,Large
+CUST0235,33,Uber Eats,Weekly,Fast Food,Afternoon,Fast,4.604302780296955,UPI,Yes,4.953936751438103,Large
+CUST0236,32,Swiggy,Occasionally,Desserts,Night,Slow,4.871598066482761,Credit Card,No,1.590421836869591,Small
+CUST0237,22,Swiggy,Daily,Fast Food,Morning,Slow,1.0033732564256823,Debit Card,No,4.8015926177114405,Medium
+CUST0238,39,Uber Eats,Monthly,Beverages,Morning,Fast,3.240121031425991,Debit Card,Yes,2.708444257958092,Large
+CUST0239,19,Uber Eats,Monthly,Healthy Food,Night,Fast,4.9147849190010025,Debit Card,No,4.3666403641767175,Large
+CUST0240,55,Zomato,Occasionally,Beverages,Night,Fast,1.4387932676448774,UPI,No,4.703941346893654,Large
+CUST0241,53,Swiggy,Weekly,Fast Food,Afternoon,Fast,2.1288369853997122,Credit Card,Yes,1.3841909276123001,Large
+CUST0242,32,Zomato,Daily,Healthy Food,Afternoon,Fast,1.124738968468939,Credit Card,Yes,4.896635039862268,Large
+CUST0243,55,Zomato,Daily,Beverages,Afternoon,Fast,2.7268620044655165,UPI,Yes,1.7185315175373312,Medium
+CUST0244,32,Uber Eats,Monthly,Fast Food,Morning,Fast,3.3606554983338213,Credit Card,No,1.2098884617491614,Small
+CUST0245,18,Uber Eats,Occasionally,Fast Food,Night,Medium,3.5008572136797698,UPI,Yes,4.921107039315556,Small
+CUST0246,22,Swiggy,Occasionally,Fast Food,Evening,Fast,3.847094606840301,Debit Card,No,3.600391219213182,Medium
+CUST0247,63,Zomato,Occasionally,Desserts,Night,Fast,2.6241306180228303,Credit Card,No,3.3735695610589214,Small
+CUST0248,58,Swiggy,Occasionally,Desserts,Night,Fast,2.7407601936196917,UPI,Yes,4.878907893555413,Medium
+CUST0249,21,Zomato,Daily,Desserts,Afternoon,Slow,1.8448642987754211,Credit Card,Yes,3.5078901863858225,Medium
+CUST0250,32,Uber Eats,Weekly,Healthy Food,Evening,Slow,1.6936404250523869,Cash on Delivery,Yes,2.6159759832918943,Small
+CUST0251,22,Swiggy,Monthly,Beverages,Night,Medium,1.5562754627533804,Cash on Delivery,Yes,1.135971311295108,Large
+CUST0252,20,Zomato,Daily,Healthy Food,Evening,Slow,3.221686315077396,Cash on Delivery,Yes,1.9634216844035621,Medium
+CUST0253,39,Uber Eats,Occasionally,Healthy Food,Evening,Medium,4.3733106829071655,UPI,Yes,2.9545035750475406,Medium
+CUST0254,22,Zomato,Occasionally,Fast Food,Night,Slow,2.441151554583391,Credit Card,Yes,3.751936423663958,Large
+CUST0255,50,Swiggy,Monthly,Fast Food,Afternoon,Slow,2.668941979237416,Cash on Delivery,No,4.818221454992503,Large
+CUST0256,33,Uber Eats,Weekly,Healthy Food,Afternoon,Slow,2.153883486910344,Credit Card,Yes,3.6111878676772187,Small
+CUST0257,35,Zomato,Weekly,Beverages,Night,Slow,4.490942766370358,UPI,No,2.5014865629628242,Medium
+CUST0258,60,Zomato,Weekly,Desserts,Evening,Medium,1.5021966139756873,Cash on Delivery,Yes,3.7671793994654403,Small
+CUST0259,49,Swiggy,Occasionally,Healthy Food,Evening,Fast,1.0464110097809431,Cash on Delivery,Yes,4.181300838909623,Large
+CUST0260,31,Swiggy,Daily,Healthy Food,Afternoon,Medium,3.5935569708260235,UPI,No,3.634075405884121,Medium
+CUST0261,52,Swiggy,Daily,Beverages,Afternoon,Fast,1.575983545820094,Credit Card,No,4.110923244466596,Large
+CUST0262,26,Uber Eats,Weekly,Beverages,Afternoon,Slow,4.5395547296613845,Cash on Delivery,Yes,4.459583157843207,Large
+CUST0263,64,Uber Eats,Monthly,Healthy Food,Evening,Slow,3.6317067872504922,Credit Card,No,3.6012437457472357,Small
+CUST0264,54,Swiggy,Weekly,Fast Food,Evening,Fast,4.8999001082842835,Debit Card,Yes,2.100864161024496,Small
+CUST0265,54,Uber Eats,Weekly,Fast Food,Afternoon,Fast,1.5431029821832012,UPI,No,3.61278189555163,Small
+CUST0266,48,Zomato,Monthly,Healthy Food,Afternoon,Fast,1.5488810730648903,Cash on Delivery,No,2.4692922237993007,Large
+CUST0267,33,Swiggy,Weekly,Fast Food,Evening,Slow,4.223766458507045,UPI,No,1.4800015424677024,Small
+CUST0268,48,Uber Eats,Monthly,Beverages,Morning,Medium,4.440611048222442,Debit Card,No,1.3305479622498617,Medium
+CUST0269,44,Uber Eats,Monthly,Desserts,Evening,Fast,4.57432987656976,UPI,Yes,2.9568737638416684,Large
+CUST0270,30,Swiggy,Daily,Beverages,Night,Medium,3.7815620781311243,UPI,No,3.6751688393497,Large
+CUST0271,24,Swiggy,Monthly,Desserts,Night,Slow,4.72124404983831,Cash on Delivery,No,3.0389939911644173,Small
+CUST0272,24,Uber Eats,Weekly,Healthy Food,Evening,Fast,3.4929939263998677,Debit Card,No,1.092107045258596,Large
+CUST0273,60,Uber Eats,Monthly,Healthy Food,Night,Medium,2.817577436846939,Cash on Delivery,Yes,3.291927635292689,Medium
+CUST0274,45,Swiggy,Weekly,Desserts,Morning,Slow,2.6964987382903702,Credit Card,Yes,3.2905222618430363,Small
+CUST0275,40,Uber Eats,Monthly,Fast Food,Morning,Slow,4.28028569966691,Debit Card,Yes,2.094899228028233,Medium
+CUST0276,45,Zomato,Daily,Healthy Food,Morning,Medium,2.5388588713201052,UPI,No,3.981437179283894,Small
+CUST0277,44,Uber Eats,Weekly,Desserts,Night,Medium,1.9029636736449906,UPI,No,4.177374857451886,Small
+CUST0278,47,Zomato,Weekly,Fast Food,Afternoon,Slow,2.6990874291829243,Credit Card,No,1.7243863756644688,Large
+CUST0279,64,Zomato,Weekly,Desserts,Morning,Fast,1.0297199659925251,UPI,No,2.9367659091935807,Large
+CUST0280,21,Uber Eats,Monthly,Healthy Food,Morning,Slow,2.9926278545500002,Cash on Delivery,Yes,3.5783865959267906,Small
+CUST0281,61,Uber Eats,Daily,Healthy Food,Afternoon,Medium,3.923653520248829,Debit Card,No,2.7346259146441025,Medium
+CUST0282,59,Swiggy,Daily,Beverages,Evening,Slow,3.8485199958601237,Credit Card,Yes,3.2856923975120913,Medium
+CUST0283,59,Zomato,Daily,Desserts,Afternoon,Fast,2.0770017925154507,Credit Card,No,1.3977650202879004,Small
+CUST0284,24,Uber Eats,Daily,Fast Food,Evening,Slow,4.7062578066040945,UPI,Yes,1.253993204646353,Medium
+CUST0285,21,Zomato,Monthly,Healthy Food,Evening,Fast,3.305409412591756,UPI,Yes,4.635522093242719,Medium
+CUST0286,43,Swiggy,Weekly,Beverages,Afternoon,Medium,1.1338475042055083,Credit Card,Yes,4.180899308249684,Large
+CUST0287,64,Zomato,Occasionally,Beverages,Morning,Fast,1.1514601280733814,Cash on Delivery,No,1.7395593942800316,Small
+CUST0288,39,Uber Eats,Daily,Fast Food,Evening,Fast,2.9330725283885757,Cash on Delivery,Yes,4.251471748970207,Large
+CUST0289,24,Uber Eats,Occasionally,Healthy Food,Afternoon,Slow,2.4743143949855675,Debit Card,Yes,1.078985553794996,Medium
+CUST0290,33,Zomato,Monthly,Beverages,Morning,Fast,3.3210751259783775,UPI,Yes,3.224240655227388,Large
+CUST0291,30,Swiggy,Monthly,Fast Food,Evening,Fast,4.846950998619118,Credit Card,Yes,3.1456671590648457,Medium
+CUST0292,30,Zomato,Occasionally,Fast Food,Night,Slow,1.3202524227526031,UPI,No,4.2487850347187415,Medium
+CUST0293,52,Uber Eats,Weekly,Desserts,Morning,Fast,3.92074187789241,UPI,No,2.9542530496100086,Medium
+CUST0294,46,Swiggy,Occasionally,Desserts,Afternoon,Slow,3.105632215248915,Cash on Delivery,Yes,3.0756044637305715,Medium
+CUST0295,26,Zomato,Monthly,Healthy Food,Night,Medium,4.437402635326039,UPI,Yes,3.3388861578399474,Medium
+CUST0296,45,Zomato,Occasionally,Beverages,Afternoon,Fast,4.002328836288148,Debit Card,Yes,3.8549964970000863,Large
+CUST0297,29,Swiggy,Daily,Beverages,Evening,Fast,2.117681487349758,Cash on Delivery,No,4.160270769944807,Medium
+CUST0298,35,Zomato,Daily,Desserts,Morning,Slow,3.0677981996010124,Cash on Delivery,No,1.496357314393169,Large
+CUST0299,47,Swiggy,Weekly,Healthy Food,Night,Slow,3.0934271779631217,UPI,Yes,4.0119527640182895,Medium
+CUST0300,33,Swiggy,Occasionally,Beverages,Night,Fast,3.440282436860989,Cash on Delivery,No,4.8627241748148915,Small
+CUST0301,22,Swiggy,Occasionally,Fast Food,Night,Slow,1.9809252164498439,Debit Card,No,4.590409192959251,Small
+CUST0302,46,Swiggy,Occasionally,Fast Food,Evening,Slow,3.522651396444026,Credit Card,Yes,1.7226566929222176,Medium
+CUST0303,53,Zomato,Occasionally,Fast Food,Morning,Fast,3.6549477565411044,Debit Card,Yes,3.3964104263548816,Medium
+CUST0304,24,Zomato,Weekly,Fast Food,Morning,Slow,3.674868556203899,Cash on Delivery,No,1.7197502257026431,Medium
+CUST0305,21,Uber Eats,Monthly,Desserts,Evening,Slow,3.736296076586475,Debit Card,Yes,3.2188870742092393,Small
+CUST0306,59,Swiggy,Weekly,Healthy Food,Afternoon,Slow,3.1567888497739505,Cash on Delivery,No,4.202051887342217,Large
+CUST0307,52,Uber Eats,Monthly,Fast Food,Night,Medium,3.3185137603431856,UPI,Yes,1.4921812128765333,Large
+CUST0308,18,Uber Eats,Monthly,Fast Food,Afternoon,Slow,3.452156455897518,Cash on Delivery,No,1.515263962003023,Small
+CUST0309,23,Zomato,Monthly,Beverages,Evening,Fast,4.614341090427224,Credit Card,Yes,1.8249196008634714,Large
+CUST0310,33,Zomato,Occasionally,Desserts,Afternoon,Slow,3.1401330464639403,Debit Card,Yes,1.6448410477584874,Medium
+CUST0311,28,Zomato,Weekly,Beverages,Afternoon,Slow,1.0431336006185057,UPI,No,3.249984838269963,Medium
+CUST0312,44,Zomato,Monthly,Beverages,Evening,Medium,2.816139087458345,Cash on Delivery,Yes,4.405800424607657,Medium
+CUST0313,49,Uber Eats,Daily,Beverages,Night,Slow,4.624220325625908,Debit Card,No,1.140021118063042,Large
+CUST0314,48,Swiggy,Monthly,Fast Food,Afternoon,Medium,3.295861206466393,Debit Card,Yes,4.919713739297304,Large
+CUST0315,31,Uber Eats,Weekly,Healthy Food,Morning,Slow,2.3260559565131693,Debit Card,Yes,3.0245932429605102,Large
+CUST0316,43,Uber Eats,Occasionally,Desserts,Afternoon,Slow,2.411658166664281,UPI,Yes,2.4542385627709673,Medium
+CUST0317,21,Zomato,Daily,Fast Food,Afternoon,Medium,4.911042058414912,Cash on Delivery,Yes,3.177708601105308,Large
+CUST0318,28,Swiggy,Monthly,Desserts,Morning,Fast,2.178471782481922,Cash on Delivery,No,2.6922053091854776,Medium
+CUST0319,42,Uber Eats,Occasionally,Fast Food,Night,Fast,1.6700326512851187,UPI,No,4.780913938825112,Large
+CUST0320,18,Zomato,Weekly,Healthy Food,Morning,Fast,3.7802046514411125,Credit Card,Yes,1.0003422572713219,Large
+CUST0321,42,Zomato,Weekly,Healthy Food,Night,Slow,3.3905460759826087,Debit Card,Yes,2.202399910872169,Small
+CUST0322,34,Swiggy,Daily,Desserts,Evening,Medium,2.2162833728483826,Cash on Delivery,Yes,4.784858463579255,Small
+CUST0323,47,Uber Eats,Daily,Beverages,Evening,Slow,4.140086220613309,UPI,No,3.077772286671981,Small
+CUST0324,36,Swiggy,Monthly,Fast Food,Afternoon,Medium,2.0417725462143945,UPI,Yes,4.131207296055461,Small
+CUST0325,45,Swiggy,Occasionally,Desserts,Afternoon,Slow,3.517200215851084,Debit Card,No,3.636630312624645,Large
+CUST0326,62,Swiggy,Occasionally,Beverages,Evening,Fast,3.3125643482529887,UPI,No,2.779681150312872,Small
+CUST0327,64,Uber Eats,Weekly,Healthy Food,Morning,Slow,3.2914399818068705,Debit Card,Yes,3.3082858768237475,Large
+CUST0328,53,Zomato,Weekly,Fast Food,Evening,Slow,3.625279545496846,Cash on Delivery,Yes,3.7804059777538788,Medium
+CUST0329,60,Swiggy,Monthly,Healthy Food,Night,Medium,2.1670128348140647,Debit Card,Yes,3.0906650397414905,Small
+CUST0330,63,Swiggy,Monthly,Fast Food,Afternoon,Medium,3.9495203085040154,Credit Card,Yes,4.944078087711249,Medium
+CUST0331,49,Uber Eats,Weekly,Beverages,Morning,Medium,1.109192350113858,Debit Card,No,2.4084685029438773,Large
+CUST0332,27,Uber Eats,Weekly,Fast Food,Afternoon,Slow,2.939040752724116,Debit Card,No,3.152837947326611,Large
+CUST0333,30,Zomato,Occasionally,Beverages,Evening,Medium,1.507285341787222,Credit Card,No,1.8393580224493236,Large
+CUST0334,36,Zomato,Occasionally,Fast Food,Morning,Medium,1.3074490383698119,Debit Card,Yes,1.3960365254466827,Small
+CUST0335,31,Swiggy,Occasionally,Desserts,Evening,Medium,4.135051288540625,UPI,No,4.279053182743059,Large
+CUST0336,21,Swiggy,Monthly,Healthy Food,Night,Slow,2.00820389784988,Cash on Delivery,Yes,1.9484014224032742,Medium
+CUST0337,55,Uber Eats,Occasionally,Fast Food,Evening,Medium,3.463191040783284,Cash on Delivery,Yes,1.7522946042319334,Large
+CUST0338,65,Swiggy,Daily,Fast Food,Morning,Slow,2.100868459280085,Cash on Delivery,No,2.1988369183565726,Large
+CUST0339,52,Uber Eats,Daily,Healthy Food,Evening,Medium,2.0278228823603093,Cash on Delivery,No,4.330511218762783,Small
+CUST0340,21,Swiggy,Occasionally,Fast Food,Afternoon,Slow,3.9657166633471665,Credit Card,No,4.829691712087631,Large
+CUST0341,65,Uber Eats,Occasionally,Healthy Food,Afternoon,Fast,3.415286158758814,Debit Card,No,3.408577548029143,Medium
+CUST0342,38,Swiggy,Weekly,Beverages,Morning,Slow,4.640525954716507,Debit Card,Yes,1.8641598699028235,Medium
+CUST0343,21,Swiggy,Weekly,Desserts,Afternoon,Slow,3.9558689341287496,UPI,No,2.4362606488882217,Small
+CUST0344,21,Swiggy,Monthly,Desserts,Night,Fast,3.636622561414634,Debit Card,Yes,1.5139684596390843,Small
+CUST0345,55,Zomato,Daily,Healthy Food,Night,Medium,2.4790673198652473,Credit Card,No,3.4892509705428782,Medium
+CUST0346,48,Swiggy,Daily,Desserts,Morning,Slow,1.70159745994963,UPI,No,1.2974386379077614,Large
+CUST0347,50,Swiggy,Monthly,Healthy Food,Evening,Slow,4.130110821150984,UPI,Yes,2.0198694843254814,Medium
+CUST0348,51,Zomato,Occasionally,Desserts,Afternoon,Medium,1.944783523229316,Debit Card,Yes,2.5271292522480766,Small
+CUST0349,28,Zomato,Occasionally,Fast Food,Afternoon,Medium,1.7232367634586097,Credit Card,Yes,4.614639734128694,Small
+CUST0350,21,Swiggy,Monthly,Fast Food,Evening,Medium,3.1095554191474446,Cash on Delivery,Yes,2.600237502338521,Medium
+CUST0351,50,Uber Eats,Daily,Desserts,Evening,Medium,1.132362107719421,Credit Card,Yes,1.3330163045150183,Small
+CUST0352,23,Swiggy,Daily,Beverages,Evening,Medium,4.936286630761667,Credit Card,Yes,2.016717573300769,Medium
+CUST0353,29,Uber Eats,Occasionally,Desserts,Evening,Fast,4.869382534774251,Credit Card,Yes,2.701373456126431,Medium
+CUST0354,22,Swiggy,Weekly,Fast Food,Afternoon,Slow,3.382176367459948,UPI,No,3.778061483599065,Medium
+CUST0355,56,Uber Eats,Monthly,Desserts,Night,Fast,4.286895071093747,UPI,No,3.1436172784496215,Large
+CUST0356,22,Swiggy,Monthly,Fast Food,Morning,Medium,4.350456878422149,Credit Card,No,1.282232184099203,Large
+CUST0357,61,Zomato,Occasionally,Beverages,Morning,Slow,4.011045187520551,Cash on Delivery,No,3.930699594897022,Large
+CUST0358,33,Uber Eats,Monthly,Beverages,Evening,Fast,2.6517915061225827,UPI,No,4.98143707612514,Medium
+CUST0359,43,Swiggy,Daily,Desserts,Night,Slow,2.5326679717882703,Credit Card,Yes,3.787211735414601,Small
+CUST0360,25,Swiggy,Occasionally,Fast Food,Afternoon,Fast,3.642669154411107,Cash on Delivery,Yes,1.7705096815361072,Medium
+CUST0361,54,Zomato,Daily,Beverages,Afternoon,Medium,3.903996367382248,Debit Card,Yes,2.4885690380228205,Small
+CUST0362,33,Uber Eats,Weekly,Healthy Food,Morning,Fast,1.6691330436127405,Debit Card,Yes,3.629272212021682,Large
+CUST0363,55,Uber Eats,Monthly,Desserts,Evening,Medium,3.3110295752990573,Credit Card,Yes,4.282032832843883,Medium
+CUST0364,56,Uber Eats,Monthly,Healthy Food,Night,Fast,4.3673321409546055,Credit Card,Yes,3.4197787691367587,Medium
+CUST0365,20,Zomato,Daily,Desserts,Morning,Fast,1.2173031461912718,UPI,No,2.678745890306467,Large
+CUST0366,57,Uber Eats,Occasionally,Fast Food,Night,Medium,2.0575819836701132,Cash on Delivery,No,1.6139656399595834,Medium
+CUST0367,23,Uber Eats,Occasionally,Fast Food,Evening,Fast,4.278124037861656,Credit Card,No,4.9697959657843125,Medium
+CUST0368,44,Swiggy,Monthly,Healthy Food,Evening,Slow,1.2100927879691241,Debit Card,No,2.7345085256976454,Medium
+CUST0369,60,Swiggy,Daily,Fast Food,Morning,Medium,2.8560597121341464,Credit Card,Yes,1.1036394525771644,Large
+CUST0370,55,Zomato,Weekly,Fast Food,Evening,Slow,2.904927769344065,UPI,Yes,3.414428986534407,Small
+CUST0371,54,Uber Eats,Daily,Fast Food,Night,Slow,2.9050649626895946,UPI,No,1.3100983879007466,Small
+CUST0372,51,Swiggy,Occasionally,Healthy Food,Night,Slow,4.793007098210688,Cash on Delivery,No,1.4984848955711771,Medium
+CUST0373,38,Zomato,Monthly,Fast Food,Morning,Slow,4.689836994782711,Debit Card,No,1.4399605299228204,Small
+CUST0374,34,Uber Eats,Monthly,Beverages,Evening,Slow,1.934645246857428,Cash on Delivery,No,3.19347513934318,Small
+CUST0375,31,Zomato,Monthly,Desserts,Afternoon,Fast,3.7340398343088568,Debit Card,No,1.2638374367164822,Small
+CUST0376,60,Uber Eats,Weekly,Beverages,Evening,Fast,2.560281946497845,Debit Card,Yes,3.5607099559597417,Small
+CUST0377,63,Swiggy,Weekly,Healthy Food,Morning,Fast,2.050500605855877,Credit Card,Yes,2.4512779387606796,Medium
+CUST0378,38,Uber Eats,Occasionally,Healthy Food,Morning,Medium,3.1217685303174774,Debit Card,Yes,2.3340693944117707,Large
+CUST0379,33,Uber Eats,Daily,Fast Food,Afternoon,Medium,2.738937318678589,Debit Card,Yes,2.093012009451676,Large
+CUST0380,34,Uber Eats,Daily,Beverages,Morning,Fast,2.155168888784126,UPI,Yes,4.4754214822678975,Large
+CUST0381,43,Uber Eats,Daily,Healthy Food,Morning,Fast,4.189236177468914,Cash on Delivery,No,1.9030618749155637,Medium
+CUST0382,26,Zomato,Weekly,Desserts,Afternoon,Medium,2.528016378834647,Cash on Delivery,No,1.039453330574836,Medium
+CUST0383,60,Uber Eats,Monthly,Healthy Food,Afternoon,Medium,2.262754498772702,UPI,Yes,2.508623927220261,Small
+CUST0384,59,Zomato,Occasionally,Beverages,Night,Slow,3.121013691511044,Credit Card,Yes,4.875093943543003,Large
+CUST0385,37,Uber Eats,Occasionally,Desserts,Morning,Fast,4.823482991487312,Cash on Delivery,Yes,2.5145294055874006,Medium
+CUST0386,47,Uber Eats,Weekly,Desserts,Afternoon,Fast,1.389457282951836,UPI,Yes,1.4200109178642513,Small
+CUST0387,38,Zomato,Weekly,Fast Food,Night,Medium,3.1251734089083714,Credit Card,No,4.702543441161618,Large
+CUST0388,22,Swiggy,Monthly,Desserts,Morning,Medium,2.4153123782927883,UPI,Yes,1.702925489141812,Medium
+CUST0389,18,Swiggy,Monthly,Fast Food,Afternoon,Fast,4.376957131379422,Cash on Delivery,No,3.9133096598241304,Small
+CUST0390,47,Zomato,Weekly,Fast Food,Morning,Slow,3.4419422721279265,Cash on Delivery,No,2.226198213959546,Large
+CUST0391,57,Uber Eats,Occasionally,Healthy Food,Night,Medium,3.6082636969791553,Debit Card,No,4.285372996532862,Large
+CUST0392,54,Swiggy,Monthly,Healthy Food,Evening,Slow,2.0903623799969973,UPI,No,2.958474400506632,Medium
+CUST0393,24,Uber Eats,Monthly,Fast Food,Morning,Fast,2.081304468723768,Debit Card,No,3.1158404752284348,Small
+CUST0394,22,Zomato,Occasionally,Beverages,Morning,Slow,4.209265443631315,UPI,No,3.801822142963352,Large
+CUST0395,52,Zomato,Monthly,Fast Food,Morning,Fast,2.021375675628879,Cash on Delivery,No,4.461593397915266,Medium
+CUST0396,31,Swiggy,Occasionally,Beverages,Morning,Slow,3.336707335446887,UPI,Yes,3.2061689278797494,Small
+CUST0397,50,Swiggy,Daily,Desserts,Afternoon,Medium,2.8444343737706843,UPI,Yes,3.429867777200524,Large
+CUST0398,34,Uber Eats,Monthly,Desserts,Evening,Medium,3.7011644765463743,Credit Card,No,4.586280973194935,Medium
+CUST0399,26,Swiggy,Monthly,Desserts,Morning,Fast,1.9671878735516501,Credit Card,Yes,1.6829896664022321,Large
+CUST0400,40,Zomato,Daily,Fast Food,Afternoon,Medium,3.6875594135738696,Credit Card,No,4.786041222568539,Small
+CUST0401,22,Zomato,Occasionally,Beverages,Evening,Slow,4.081989145127704,Debit Card,Yes,2.558253323455825,Medium
+CUST0402,33,Zomato,Monthly,Fast Food,Night,Slow,3.0798092883052406,UPI,Yes,2.3806915523435173,Medium
+CUST0403,41,Uber Eats,Daily,Desserts,Night,Slow,3.710872640916059,Cash on Delivery,Yes,3.9651885532680713,Large
+CUST0404,36,Swiggy,Occasionally,Healthy Food,Night,Fast,4.9728593879913285,UPI,Yes,4.872001135013919,Small
+CUST0405,28,Uber Eats,Monthly,Desserts,Night,Slow,2.253079311478512,UPI,No,3.1267285511395837,Medium
+CUST0406,46,Uber Eats,Weekly,Desserts,Night,Slow,1.0423119566679553,Credit Card,Yes,3.3784679139262774,Small
+CUST0407,52,Swiggy,Daily,Healthy Food,Evening,Medium,1.0339046666529623,Debit Card,Yes,4.398520064432956,Small
+CUST0408,63,Zomato,Occasionally,Beverages,Morning,Fast,1.2718078199613512,Cash on Delivery,No,2.9074474749657546,Large
+CUST0409,37,Swiggy,Weekly,Desserts,Night,Slow,2.6449950664549693,Cash on Delivery,No,1.5102888124901361,Small
+CUST0410,57,Swiggy,Occasionally,Beverages,Morning,Slow,3.1010570557089827,Credit Card,No,1.0379898752766352,Large
+CUST0411,59,Swiggy,Weekly,Healthy Food,Morning,Medium,3.7419982089383064,Cash on Delivery,Yes,3.0542616758710937,Small
+CUST0412,51,Uber Eats,Weekly,Healthy Food,Morning,Fast,2.406065679175148,UPI,No,1.6219651298988738,Large
+CUST0413,18,Swiggy,Daily,Healthy Food,Morning,Fast,3.9010026241331404,UPI,Yes,1.5054734391769808,Large
+CUST0414,60,Zomato,Daily,Fast Food,Morning,Medium,2.0075844285809854,Credit Card,Yes,2.5152026584017504,Medium
+CUST0415,53,Swiggy,Weekly,Beverages,Evening,Medium,1.1361670501142878,Debit Card,No,3.9416894992402165,Large
+CUST0416,37,Zomato,Daily,Fast Food,Morning,Medium,3.477588894723096,UPI,Yes,1.211458501769353,Medium
+CUST0417,60,Zomato,Occasionally,Healthy Food,Evening,Medium,1.2275276463778453,Debit Card,Yes,3.9016770910976373,Large
+CUST0418,24,Zomato,Monthly,Desserts,Evening,Fast,3.376554329890177,Debit Card,No,4.8979993870899285,Small
+CUST0419,26,Uber Eats,Occasionally,Fast Food,Morning,Fast,4.575867856605623,Cash on Delivery,Yes,3.8300096624352977,Medium
+CUST0420,34,Uber Eats,Weekly,Desserts,Evening,Slow,1.8672988698032187,UPI,Yes,1.9964465105001694,Small
+CUST0421,25,Uber Eats,Occasionally,Fast Food,Night,Slow,3.3975399028683566,Cash on Delivery,Yes,3.434811962194554,Small
+CUST0422,24,Swiggy,Weekly,Beverages,Night,Slow,1.4871605249665705,Credit Card,No,3.8271470504339513,Small
+CUST0423,65,Uber Eats,Occasionally,Desserts,Night,Fast,4.831181350945744,UPI,No,1.7324181031870842,Small
+CUST0424,53,Swiggy,Occasionally,Fast Food,Morning,Slow,1.3455454962384943,Credit Card,Yes,4.944985102236313,Medium
+CUST0425,27,Zomato,Daily,Healthy Food,Night,Slow,3.4187431374164596,Cash on Delivery,No,4.193875594993407,Small
+CUST0426,35,Swiggy,Weekly,Healthy Food,Afternoon,Medium,2.5038337605117147,Cash on Delivery,Yes,3.0089169826155797,Large
+CUST0427,36,Zomato,Weekly,Beverages,Afternoon,Fast,4.055431064960278,Cash on Delivery,Yes,2.103291897553692,Large
+CUST0428,56,Swiggy,Monthly,Beverages,Afternoon,Medium,3.5916233529469013,UPI,Yes,2.7110603308854895,Small
+CUST0429,31,Uber Eats,Occasionally,Fast Food,Night,Slow,4.212800263379976,Cash on Delivery,Yes,4.766708037807549,Small
+CUST0430,63,Zomato,Occasionally,Healthy Food,Evening,Fast,1.7390744655132777,Credit Card,No,4.525550840014575,Large
+CUST0431,39,Swiggy,Monthly,Desserts,Afternoon,Medium,1.4433803467647324,Debit Card,Yes,4.256093002222899,Large
+CUST0432,31,Swiggy,Weekly,Fast Food,Evening,Slow,1.7370519713561454,UPI,Yes,2.2207497249732984,Large
+CUST0433,61,Uber Eats,Occasionally,Fast Food,Evening,Slow,2.1782744666026703,Credit Card,No,4.431685897318788,Small
+CUST0434,58,Uber Eats,Monthly,Healthy Food,Morning,Fast,3.6419113855416194,UPI,Yes,4.789818594028398,Large
+CUST0435,34,Uber Eats,Monthly,Beverages,Afternoon,Medium,1.3028567027682216,Cash on Delivery,No,2.62605913789804,Medium
+CUST0436,50,Swiggy,Monthly,Desserts,Morning,Slow,2.813775060257178,UPI,Yes,2.2509476496352434,Small
+CUST0437,49,Uber Eats,Occasionally,Beverages,Morning,Slow,4.980989494215952,Cash on Delivery,Yes,1.3605623732410872,Large
+CUST0438,34,Swiggy,Weekly,Fast Food,Morning,Fast,4.077436519473296,Credit Card,Yes,1.3178994678465488,Large
+CUST0439,21,Uber Eats,Weekly,Fast Food,Night,Fast,3.7688859672365034,Credit Card,Yes,3.919812120200298,Small
+CUST0440,23,Swiggy,Monthly,Healthy Food,Morning,Fast,3.6703168085181863,Debit Card,Yes,4.779467794109392,Medium
+CUST0441,58,Zomato,Monthly,Beverages,Evening,Slow,4.080478439432506,Cash on Delivery,No,1.6604525022303074,Large
+CUST0442,45,Uber Eats,Weekly,Fast Food,Afternoon,Slow,2.0293463814844497,Debit Card,Yes,1.229646089213643,Large
+CUST0443,35,Zomato,Monthly,Fast Food,Evening,Medium,4.122925194322975,Credit Card,Yes,3.9736378278091804,Medium
+CUST0444,20,Swiggy,Monthly,Beverages,Afternoon,Medium,2.1091499262185676,Cash on Delivery,Yes,3.2166390994068683,Small
+CUST0445,18,Zomato,Weekly,Healthy Food,Night,Slow,1.2495495195030868,Debit Card,No,2.9714021327598963,Small
+CUST0446,39,Uber Eats,Occasionally,Healthy Food,Afternoon,Slow,2.554361710925541,UPI,Yes,4.497411847433289,Large
+CUST0447,26,Uber Eats,Monthly,Desserts,Afternoon,Slow,4.983834268452485,UPI,No,4.848665325295826,Small
+CUST0448,58,Swiggy,Occasionally,Desserts,Afternoon,Fast,2.032954423296621,Credit Card,Yes,2.6959344946453885,Medium
+CUST0449,34,Uber Eats,Monthly,Desserts,Afternoon,Fast,4.251203455467964,Credit Card,No,3.034729448927683,Small
+CUST0450,28,Zomato,Monthly,Beverages,Evening,Medium,1.7117179465465195,Debit Card,No,3.923189465297114,Large
+CUST0451,65,Uber Eats,Monthly,Desserts,Afternoon,Medium,1.2775939253485733,Debit Card,Yes,2.91862379007951,Small
+CUST0452,46,Zomato,Daily,Desserts,Morning,Medium,4.917687920587847,Debit Card,No,3.0600459481812075,Large
+CUST0453,53,Uber Eats,Occasionally,Beverages,Afternoon,Fast,1.8026764574736918,Cash on Delivery,No,4.991817703150932,Medium
+CUST0454,63,Swiggy,Occasionally,Desserts,Morning,Fast,2.5705377810729195,UPI,Yes,4.552322135341446,Medium
+CUST0455,45,Uber Eats,Monthly,Healthy Food,Night,Medium,3.581932708384314,Cash on Delivery,No,3.7915278114286535,Large
+CUST0456,53,Swiggy,Weekly,Fast Food,Morning,Fast,1.433721874471682,Cash on Delivery,Yes,2.6218858067363575,Small
+CUST0457,18,Uber Eats,Monthly,Healthy Food,Evening,Medium,3.162528627178291,Debit Card,Yes,3.4651464280540942,Medium
+CUST0458,25,Swiggy,Daily,Healthy Food,Morning,Slow,2.725014305662706,UPI,Yes,4.6435456225692455,Small
+CUST0459,22,Zomato,Monthly,Fast Food,Evening,Slow,3.4558651639025855,Debit Card,Yes,3.9836690428045465,Small
+CUST0460,62,Zomato,Daily,Healthy Food,Morning,Fast,1.4249988470259076,UPI,Yes,3.8566402919584184,Large
+CUST0461,27,Zomato,Monthly,Fast Food,Afternoon,Slow,2.7663268362104985,UPI,Yes,3.810366855094576,Small
+CUST0462,52,Zomato,Occasionally,Healthy Food,Night,Medium,2.0359850258614753,Debit Card,No,3.9986718101817553,Large
+CUST0463,20,Swiggy,Monthly,Beverages,Evening,Medium,1.1394435785090775,Credit Card,No,1.9769049881166798,Large
+CUST0464,41,Swiggy,Occasionally,Beverages,Evening,Fast,1.281649308542745,Cash on Delivery,No,3.9559326070897014,Small
+CUST0465,55,Zomato,Weekly,Desserts,Afternoon,Medium,3.910180605965744,UPI,No,4.803473559631674,Small
+CUST0466,53,Zomato,Weekly,Beverages,Afternoon,Slow,4.108948661264242,Debit Card,Yes,4.293453574155805,Medium
+CUST0467,27,Zomato,Monthly,Fast Food,Morning,Medium,1.0750591724071619,Cash on Delivery,Yes,4.521327583341043,Large
+CUST0468,45,Uber Eats,Monthly,Desserts,Evening,Slow,2.9908055111424408,Cash on Delivery,Yes,3.11244567287201,Small
+CUST0469,26,Zomato,Weekly,Healthy Food,Morning,Fast,3.6114613306622285,Debit Card,No,3.4367744339214554,Small
+CUST0470,20,Swiggy,Daily,Beverages,Afternoon,Fast,1.0034705678490914,Credit Card,Yes,3.4294941857055434,Small
+CUST0471,37,Swiggy,Weekly,Desserts,Evening,Medium,1.15134253098386,Credit Card,No,4.858589535013804,Medium
+CUST0472,41,Swiggy,Weekly,Beverages,Night,Slow,2.561935283733501,Debit Card,Yes,3.698088673656742,Medium
+CUST0473,20,Uber Eats,Daily,Desserts,Night,Fast,1.6064298957602738,Credit Card,Yes,4.5277222622546685,Small
+CUST0474,40,Uber Eats,Weekly,Fast Food,Evening,Medium,2.319323477286623,Cash on Delivery,No,3.0940656633317056,Small
+CUST0475,31,Uber Eats,Weekly,Fast Food,Evening,Medium,2.5653214625907017,Debit Card,Yes,1.9002743117455898,Small
+CUST0476,61,Uber Eats,Daily,Healthy Food,Afternoon,Slow,1.0148150180394349,UPI,No,1.3004894962027946,Medium
+CUST0477,33,Swiggy,Daily,Desserts,Evening,Slow,3.8304226082536896,Debit Card,Yes,4.357635740438663,Medium
+CUST0478,60,Uber Eats,Occasionally,Fast Food,Evening,Fast,4.083962514718754,Credit Card,Yes,3.054737936058388,Small
+CUST0479,24,Uber Eats,Monthly,Healthy Food,Night,Slow,2.912557704331209,Cash on Delivery,No,4.809934408989744,Medium
+CUST0480,40,Uber Eats,Occasionally,Desserts,Afternoon,Slow,2.615651006819282,Cash on Delivery,Yes,2.6908890752645687,Small
+CUST0481,53,Zomato,Daily,Healthy Food,Morning,Slow,3.9110696846525976,UPI,Yes,2.5163790634418715,Medium
+CUST0482,44,Swiggy,Weekly,Fast Food,Evening,Slow,4.2491026158744605,Debit Card,No,2.493134795717251,Small
+CUST0483,57,Uber Eats,Daily,Healthy Food,Afternoon,Fast,1.2803987425604078,Credit Card,No,1.4529340367900905,Medium
+CUST0484,65,Zomato,Weekly,Desserts,Afternoon,Fast,1.9033873678239392,UPI,No,4.656180700035786,Small
+CUST0485,27,Swiggy,Occasionally,Beverages,Night,Fast,2.5376954959081215,Debit Card,No,1.9990608940042973,Medium
+CUST0486,33,Uber Eats,Occasionally,Fast Food,Evening,Medium,3.7570452337854103,Credit Card,Yes,3.156478489958556,Large
+CUST0487,28,Swiggy,Occasionally,Desserts,Evening,Medium,4.11931954270799,Credit Card,No,4.065655644470636,Small
+CUST0488,29,Swiggy,Weekly,Desserts,Afternoon,Medium,1.4848146011604033,Cash on Delivery,No,1.4714616027493697,Small
+CUST0489,44,Zomato,Monthly,Healthy Food,Evening,Slow,3.1412163059426,Cash on Delivery,No,2.1967119718529187,Large
+CUST0490,19,Uber Eats,Monthly,Fast Food,Night,Slow,4.966405521599004,Cash on Delivery,No,2.1741801579222315,Medium
+CUST0491,29,Swiggy,Monthly,Beverages,Night,Fast,2.333758851344458,Credit Card,No,1.852263778514692,Medium
+CUST0492,65,Zomato,Daily,Beverages,Night,Fast,2.211312305945599,Debit Card,No,3.952102888559593,Medium
+CUST0493,39,Swiggy,Daily,Healthy Food,Evening,Slow,1.220778692730442,Debit Card,No,3.2753677783495627,Large
+CUST0494,44,Swiggy,Weekly,Fast Food,Evening,Medium,4.988063185179945,Debit Card,Yes,1.8698527790026773,Medium
+CUST0495,60,Zomato,Daily,Beverages,Night,Medium,3.588297638018935,UPI,Yes,2.2192791977259216,Small
+CUST0496,65,Swiggy,Weekly,Fast Food,Morning,Medium,2.4614214460440365,UPI,Yes,4.732445775244681,Small
+CUST0497,33,Zomato,Occasionally,Healthy Food,Afternoon,Medium,4.413368313340113,Cash on Delivery,Yes,3.57189454184559,Medium
+CUST0498,35,Uber Eats,Weekly,Fast Food,Morning,Fast,2.3602511608736747,Cash on Delivery,No,4.302909549874599,Small
+CUST0499,28,Swiggy,Daily,Fast Food,Evening,Medium,4.364726348508577,Debit Card,Yes,1.1417165081326477,Small
+CUST0500,62,Uber Eats,Occasionally,Fast Food,Afternoon,Medium,4.0418123235257895,Cash on Delivery,No,2.852227923050341,Large
+CUST0501,24,Uber Eats,Occasionally,Healthy Food,Afternoon,Slow,2.159834672444837,Debit Card,Yes,3.4709947660074167,Large
+CUST0502,42,Swiggy,Weekly,Healthy Food,Evening,Slow,1.8124818854516236,Debit Card,No,2.9530658441035964,Large
+CUST0503,20,Zomato,Monthly,Healthy Food,Morning,Fast,3.217901886681651,UPI,No,2.4229762555924386,Large
+CUST0504,48,Swiggy,Daily,Beverages,Morning,Medium,4.870051842455974,Debit Card,No,3.462120993743952,Small
+CUST0505,32,Swiggy,Daily,Desserts,Morning,Fast,3.642936354607438,Cash on Delivery,Yes,2.314207205127199,Small
+CUST0506,30,Zomato,Monthly,Fast Food,Morning,Medium,2.1954813806975566,Debit Card,No,2.4155709775437133,Medium
+CUST0507,47,Zomato,Daily,Desserts,Night,Slow,2.5604189007419556,Cash on Delivery,No,1.020617644480517,Medium
+CUST0508,40,Swiggy,Monthly,Fast Food,Afternoon,Medium,1.4270720669811086,Debit Card,Yes,4.560785106493043,Medium
+CUST0509,37,Zomato,Monthly,Fast Food,Morning,Slow,3.7553703295964334,Credit Card,Yes,1.7446308255811953,Large
+CUST0510,32,Uber Eats,Occasionally,Fast Food,Evening,Fast,2.9460141684073946,UPI,Yes,2.4181292953748623,Large
+CUST0511,32,Zomato,Occasionally,Healthy Food,Night,Medium,4.540856618666389,UPI,No,1.4053511151910962,Large
+CUST0512,19,Uber Eats,Weekly,Beverages,Afternoon,Fast,2.751934997300034,Debit Card,No,2.9681844770176538,Small
+CUST0513,60,Uber Eats,Occasionally,Healthy Food,Evening,Fast,1.7578579825145884,Cash on Delivery,No,1.338975117477672,Small
+CUST0514,30,Uber Eats,Monthly,Fast Food,Night,Fast,1.1427931545106387,Debit Card,Yes,3.0572743981632575,Large
+CUST0515,43,Zomato,Weekly,Desserts,Afternoon,Slow,1.101458421937794,UPI,Yes,1.6148426655149177,Large
+CUST0516,39,Zomato,Daily,Fast Food,Evening,Medium,4.985534238605065,Cash on Delivery,No,1.4953705940577122,Medium
+CUST0517,35,Swiggy,Monthly,Fast Food,Afternoon,Fast,1.9539405253300828,Credit Card,No,2.9496486189040674,Small
+CUST0518,22,Zomato,Weekly,Beverages,Night,Slow,2.555070133894462,Credit Card,No,1.6225216021969198,Small
+CUST0519,35,Zomato,Occasionally,Fast Food,Morning,Fast,4.170956687347651,Cash on Delivery,No,3.6265337839762792,Large
+CUST0520,40,Uber Eats,Monthly,Healthy Food,Night,Fast,3.5736305507341286,Debit Card,No,1.9043809315770468,Small
+CUST0521,59,Zomato,Weekly,Beverages,Evening,Slow,2.9987366060596714,UPI,No,2.5814353041145046,Large
+CUST0522,50,Zomato,Daily,Beverages,Morning,Fast,4.859815383978196,Cash on Delivery,No,2.1971398104576974,Small
+CUST0523,43,Uber Eats,Monthly,Beverages,Afternoon,Fast,4.2471123471649666,Debit Card,No,2.713365879422229,Large
+CUST0524,61,Zomato,Monthly,Fast Food,Afternoon,Slow,4.8662965594480525,Cash on Delivery,No,1.7287281613477283,Large
+CUST0525,52,Uber Eats,Weekly,Beverages,Afternoon,Fast,1.065673143775543,Cash on Delivery,No,4.246175416394522,Small
+CUST0526,39,Zomato,Weekly,Beverages,Night,Medium,2.357140423537923,UPI,No,1.4347799715211762,Small
+CUST0527,19,Zomato,Occasionally,Healthy Food,Afternoon,Fast,2.35087441765602,Credit Card,No,2.754288275727023,Medium
+CUST0528,25,Swiggy,Occasionally,Desserts,Afternoon,Medium,3.884047956550554,Credit Card,Yes,4.357429845313927,Small
+CUST0529,34,Zomato,Monthly,Healthy Food,Afternoon,Slow,2.622031423991534,Credit Card,Yes,1.6473372024260282,Small
+CUST0530,29,Uber Eats,Daily,Healthy Food,Night,Fast,1.8467127027244477,Credit Card,No,2.414951108309361,Small
+CUST0531,55,Zomato,Occasionally,Desserts,Evening,Medium,3.6153997381721856,UPI,Yes,2.73584061878354,Medium
+CUST0532,34,Swiggy,Daily,Desserts,Morning,Medium,3.092478557180475,Debit Card,No,2.436946984636076,Small
+CUST0533,20,Zomato,Weekly,Beverages,Afternoon,Medium,4.760359158458645,Cash on Delivery,Yes,4.482056281245334,Small
+CUST0534,24,Zomato,Weekly,Healthy Food,Night,Fast,4.480800118275147,UPI,No,1.7938584718306552,Small
+CUST0535,56,Uber Eats,Occasionally,Fast Food,Afternoon,Medium,3.146245573429871,Credit Card,Yes,1.7582682754069494,Large
+CUST0536,45,Swiggy,Monthly,Healthy Food,Morning,Fast,3.9642059975667507,Credit Card,No,1.1610252301001647,Large
+CUST0537,40,Zomato,Weekly,Desserts,Evening,Slow,1.9319426394944132,UPI,Yes,2.5781840211467673,Small
+CUST0538,64,Zomato,Daily,Beverages,Evening,Slow,1.2881338905357618,Cash on Delivery,No,3.9756959477428646,Medium
+CUST0539,38,Uber Eats,Monthly,Beverages,Afternoon,Fast,3.9418388945338267,UPI,Yes,4.603991241204934,Medium
+CUST0540,45,Zomato,Occasionally,Beverages,Morning,Fast,2.9555788533041336,Cash on Delivery,Yes,1.6412500043572429,Medium
+CUST0541,56,Zomato,Weekly,Fast Food,Afternoon,Slow,1.0762520274883398,UPI,Yes,1.795967696558709,Small
+CUST0542,50,Zomato,Occasionally,Fast Food,Evening,Slow,4.628715512693496,Debit Card,Yes,2.9171799409299743,Small
+CUST0543,25,Swiggy,Monthly,Desserts,Night,Medium,3.473488332206061,Credit Card,No,3.660971581427118,Medium
+CUST0544,42,Zomato,Monthly,Beverages,Night,Slow,1.9707302064090015,Debit Card,Yes,2.0631984805700867,Large
+CUST0545,54,Uber Eats,Monthly,Healthy Food,Night,Medium,3.5951456764500658,UPI,Yes,2.6843812909444518,Large
+CUST0546,30,Swiggy,Daily,Beverages,Morning,Slow,1.0574608198478521,Debit Card,No,3.2004946915974495,Large
+CUST0547,34,Zomato,Monthly,Healthy Food,Morning,Slow,3.5306458190070984,Cash on Delivery,Yes,4.199280341915383,Medium
+CUST0548,20,Zomato,Monthly,Healthy Food,Evening,Fast,4.61864940247945,UPI,No,3.857283834440529,Medium
+CUST0549,63,Swiggy,Weekly,Fast Food,Morning,Slow,4.282956892064128,Cash on Delivery,No,2.29955079409748,Large
+CUST0550,45,Zomato,Daily,Beverages,Evening,Slow,1.3891689615304643,Debit Card,No,4.057570838342234,Medium
+CUST0551,18,Zomato,Daily,Desserts,Evening,Slow,3.444903557619136,Credit Card,No,4.52706612348187,Medium
+CUST0552,51,Uber Eats,Occasionally,Beverages,Afternoon,Fast,4.341408627958372,UPI,Yes,3.0074343301652235,Large
+CUST0553,52,Swiggy,Monthly,Beverages,Night,Medium,1.2558304613173057,Cash on Delivery,Yes,4.694245002922212,Medium
+CUST0554,61,Uber Eats,Weekly,Desserts,Night,Slow,4.269881579468584,Debit Card,No,4.372251654435376,Small
+CUST0555,64,Zomato,Occasionally,Desserts,Evening,Slow,1.4567187278611509,UPI,Yes,2.5553940275733966,Medium
+CUST0556,65,Uber Eats,Monthly,Beverages,Morning,Slow,3.379909628605104,Credit Card,No,1.438931136062103,Small
+CUST0557,65,Zomato,Daily,Desserts,Evening,Fast,3.462514109032527,UPI,No,1.431518339893608,Small
+CUST0558,60,Swiggy,Monthly,Healthy Food,Night,Medium,1.2524404467479444,Credit Card,No,1.084608826819765,Large
+CUST0559,30,Swiggy,Monthly,Fast Food,Afternoon,Fast,1.8105645604792673,Debit Card,No,1.6221679551637336,Large
+CUST0560,41,Swiggy,Weekly,Desserts,Night,Fast,2.3493724409199066,Cash on Delivery,No,3.0000037256970686,Medium
+CUST0561,45,Uber Eats,Weekly,Healthy Food,Evening,Medium,4.343583791917347,UPI,Yes,4.069539805782964,Medium
+CUST0562,22,Uber Eats,Weekly,Fast Food,Evening,Fast,3.951713612031872,UPI,No,1.9460197404634902,Small
+CUST0563,60,Zomato,Occasionally,Desserts,Night,Slow,2.6080344415973107,Cash on Delivery,Yes,3.713241274053924,Large
+CUST0564,39,Swiggy,Weekly,Fast Food,Night,Slow,1.4832097582773347,UPI,No,2.3685639926691366,Large
+CUST0565,57,Uber Eats,Occasionally,Beverages,Morning,Medium,3.7363535337438285,UPI,Yes,4.905754107150043,Medium
+CUST0566,38,Zomato,Monthly,Desserts,Afternoon,Fast,3.183539186040443,UPI,Yes,3.949726224184897,Small
+CUST0567,60,Uber Eats,Occasionally,Healthy Food,Night,Medium,2.2863595436938726,UPI,Yes,2.7373140597400965,Small
+CUST0568,25,Zomato,Occasionally,Healthy Food,Afternoon,Slow,4.858769559654643,Cash on Delivery,No,2.1578665161795425,Large
+CUST0569,64,Uber Eats,Weekly,Fast Food,Afternoon,Fast,1.8529273499318326,Debit Card,Yes,2.9437169755284454,Medium
+CUST0570,37,Uber Eats,Weekly,Healthy Food,Morning,Fast,1.182346182855524,UPI,No,4.043599588541744,Medium
+CUST0571,50,Uber Eats,Daily,Healthy Food,Evening,Medium,1.6937905948014178,Cash on Delivery,No,1.9909891968254194,Medium
+CUST0572,37,Swiggy,Occasionally,Desserts,Afternoon,Slow,1.2528875506146395,Debit Card,No,1.6099828997030428,Medium
+CUST0573,60,Swiggy,Monthly,Fast Food,Afternoon,Medium,2.0955734295021533,Cash on Delivery,Yes,3.0449593420881103,Large
+CUST0574,44,Uber Eats,Daily,Healthy Food,Afternoon,Slow,4.030200344775746,Credit Card,No,1.9978671455722696,Large
+CUST0575,38,Zomato,Daily,Beverages,Afternoon,Slow,1.6722034125416214,Debit Card,Yes,4.066910419315695,Medium
+CUST0576,43,Zomato,Daily,Desserts,Evening,Medium,2.4797093735160747,Debit Card,No,4.456667222485862,Medium
+CUST0577,62,Swiggy,Weekly,Healthy Food,Morning,Fast,1.6600245070058466,Credit Card,No,4.977028241782062,Large
+CUST0578,36,Swiggy,Weekly,Healthy Food,Afternoon,Fast,1.9745784379743196,Debit Card,Yes,1.9894174833992255,Small
+CUST0579,53,Swiggy,Weekly,Healthy Food,Night,Medium,3.3279432070463564,Debit Card,No,4.282437665139405,Large
+CUST0580,26,Uber Eats,Monthly,Desserts,Evening,Slow,1.5334835082282972,Credit Card,No,1.7936498365966327,Medium
+CUST0581,30,Zomato,Occasionally,Desserts,Morning,Medium,4.164209182481965,Cash on Delivery,Yes,3.825843595943359,Medium
+CUST0582,44,Swiggy,Daily,Fast Food,Night,Fast,3.5287784520519225,UPI,No,4.239809873791483,Small
+CUST0583,60,Uber Eats,Weekly,Desserts,Night,Medium,2.5045242243308317,Debit Card,Yes,3.8045798161761972,Large
+CUST0584,42,Swiggy,Occasionally,Healthy Food,Night,Slow,1.6310146455654597,Cash on Delivery,Yes,3.009335774514092,Medium
+CUST0585,61,Zomato,Daily,Healthy Food,Afternoon,Slow,4.518507763355001,Cash on Delivery,No,1.72475299801436,Medium
+CUST0586,65,Zomato,Occasionally,Beverages,Afternoon,Fast,1.3228904308780902,Credit Card,Yes,4.970206673588512,Large
+CUST0587,29,Swiggy,Daily,Desserts,Night,Medium,1.02889597950616,Cash on Delivery,No,3.3647847959073753,Small
+CUST0588,57,Uber Eats,Occasionally,Healthy Food,Morning,Medium,4.70454782513205,Credit Card,No,3.537908767125788,Medium
+CUST0589,54,Zomato,Weekly,Beverages,Afternoon,Slow,3.826964993827217,Cash on Delivery,No,1.9175367689270133,Small
+CUST0590,37,Zomato,Occasionally,Fast Food,Morning,Slow,3.374922093359087,UPI,Yes,1.5291832507039058,Small
+CUST0591,43,Zomato,Occasionally,Fast Food,Afternoon,Fast,2.1349261825150916,Cash on Delivery,No,1.1534657261926422,Large
+CUST0592,53,Swiggy,Daily,Fast Food,Afternoon,Fast,3.774014109593981,Cash on Delivery,No,4.961595183377784,Medium
+CUST0593,18,Uber Eats,Occasionally,Healthy Food,Afternoon,Fast,4.168962859289726,Cash on Delivery,No,4.71639332610992,Large
+CUST0594,37,Uber Eats,Monthly,Healthy Food,Morning,Slow,2.904049893985937,Credit Card,No,2.705211908151547,Medium
+CUST0595,36,Uber Eats,Daily,Fast Food,Afternoon,Medium,1.5075696768212383,Debit Card,No,3.4658694326771347,Medium
+CUST0596,31,Uber Eats,Occasionally,Beverages,Morning,Slow,1.572351444954446,Credit Card,Yes,1.3637417216405305,Large
+CUST0597,45,Uber Eats,Monthly,Fast Food,Afternoon,Slow,2.0837989903416294,UPI,Yes,1.2038214618072702,Large
+CUST0598,55,Swiggy,Daily,Desserts,Evening,Fast,2.8016765240440167,Credit Card,Yes,2.629188761859273,Large
+CUST0599,56,Swiggy,Weekly,Healthy Food,Afternoon,Fast,1.9570150356915477,Debit Card,Yes,2.2257837861823693,Medium
+CUST0600,59,Uber Eats,Daily,Healthy Food,Night,Fast,1.6981957438748472,UPI,No,3.5332399004734856,Medium
+CUST0601,38,Uber Eats,Daily,Desserts,Morning,Slow,3.7666942786461473,Debit Card,No,1.9257105953030358,Small
+CUST0602,47,Swiggy,Occasionally,Healthy Food,Evening,Medium,3.3850878828764097,Debit Card,No,2.3447114058159544,Small
+CUST0603,46,Swiggy,Monthly,Desserts,Morning,Medium,3.868795022365082,UPI,Yes,2.91678095046728,Small
+CUST0604,46,Uber Eats,Daily,Fast Food,Afternoon,Medium,3.4481992706745284,Debit Card,No,3.039454770895029,Medium
+CUST0605,61,Uber Eats,Daily,Fast Food,Night,Medium,1.3520847745892897,Credit Card,Yes,3.575492622007593,Medium
+CUST0606,31,Swiggy,Daily,Healthy Food,Night,Slow,4.305934392886848,Debit Card,No,2.217159959973542,Small
+CUST0607,50,Zomato,Occasionally,Healthy Food,Night,Fast,2.2047990664200054,Cash on Delivery,Yes,2.076984356748347,Medium
+CUST0608,48,Uber Eats,Daily,Fast Food,Afternoon,Fast,2.675143480437101,Credit Card,No,2.1222237629592042,Small
+CUST0609,65,Zomato,Monthly,Desserts,Afternoon,Medium,3.230841613877982,Debit Card,Yes,2.4040980551119326,Small
+CUST0610,28,Uber Eats,Occasionally,Fast Food,Night,Slow,1.7676114474984352,Cash on Delivery,No,2.6722967996289917,Small
+CUST0611,60,Uber Eats,Weekly,Desserts,Afternoon,Medium,4.946414099043578,Credit Card,No,2.279363539669103,Large
+CUST0612,23,Uber Eats,Weekly,Beverages,Afternoon,Medium,4.907165917625542,UPI,No,1.1902255768105872,Medium
+CUST0613,36,Uber Eats,Occasionally,Fast Food,Evening,Slow,3.4756837595075756,Credit Card,Yes,1.1635565161864734,Medium
+CUST0614,50,Zomato,Monthly,Desserts,Afternoon,Medium,4.450924240384348,UPI,Yes,1.2085225480923278,Small
+CUST0615,60,Swiggy,Occasionally,Desserts,Evening,Fast,4.947128490797365,Credit Card,Yes,3.979018816996801,Medium
+CUST0616,58,Swiggy,Occasionally,Desserts,Night,Slow,3.0301630264304915,Cash on Delivery,Yes,1.8479102040921735,Small
+CUST0617,57,Zomato,Occasionally,Healthy Food,Morning,Medium,2.856864028284886,UPI,Yes,2.888232656722049,Small
+CUST0618,39,Swiggy,Occasionally,Healthy Food,Afternoon,Fast,3.505856980661367,Credit Card,No,4.6339278997934406,Medium
+CUST0619,23,Swiggy,Daily,Beverages,Night,Slow,1.832434811485606,UPI,Yes,1.4030467996271705,Large
+CUST0620,33,Swiggy,Weekly,Beverages,Night,Medium,1.212276077083319,Debit Card,Yes,1.7393600121814918,Small
+CUST0621,61,Swiggy,Monthly,Desserts,Afternoon,Medium,1.45071648945251,Credit Card,Yes,4.793312743046473,Large
+CUST0622,37,Swiggy,Daily,Healthy Food,Morning,Fast,1.596869667924754,Credit Card,Yes,2.4543249706710024,Medium
+CUST0623,32,Uber Eats,Weekly,Desserts,Morning,Slow,4.375126778142864,Cash on Delivery,No,2.2174267802097978,Small
+CUST0624,30,Zomato,Occasionally,Healthy Food,Afternoon,Medium,4.6459374867204675,Cash on Delivery,No,1.387548883823977,Medium
+CUST0625,27,Swiggy,Weekly,Healthy Food,Night,Fast,2.9900593512154763,Cash on Delivery,Yes,1.0546463335442993,Large
+CUST0626,19,Swiggy,Weekly,Beverages,Afternoon,Fast,1.639038374130208,UPI,Yes,3.207072906805981,Medium
+CUST0627,20,Swiggy,Daily,Desserts,Morning,Medium,4.690692157838214,Credit Card,No,4.447897080490234,Small
+CUST0628,33,Uber Eats,Daily,Desserts,Afternoon,Medium,1.2161104573267947,UPI,Yes,2.3248469340970725,Large
+CUST0629,48,Swiggy,Monthly,Healthy Food,Night,Slow,2.4567722763140356,Credit Card,No,3.9651684108387006,Small
+CUST0630,57,Swiggy,Occasionally,Healthy Food,Morning,Fast,1.8383590112528694,Cash on Delivery,Yes,2.4455398542562725,Medium
+CUST0631,22,Zomato,Occasionally,Fast Food,Morning,Fast,2.0055271188704555,UPI,No,4.115233230260344,Medium
+CUST0632,47,Uber Eats,Occasionally,Beverages,Morning,Slow,3.467277401839306,Debit Card,Yes,3.1154482544873296,Large
+CUST0633,44,Swiggy,Weekly,Fast Food,Night,Medium,4.560318373394251,Debit Card,Yes,2.4863691400960746,Small
+CUST0634,58,Zomato,Weekly,Healthy Food,Afternoon,Slow,2.812590510944053,Credit Card,No,3.600993373273222,Large
+CUST0635,54,Zomato,Occasionally,Desserts,Morning,Slow,1.4176843983059193,UPI,No,1.840133207569337,Small
+CUST0636,30,Zomato,Monthly,Healthy Food,Night,Slow,1.2098263181704683,UPI,No,2.5361974265346277,Small
+CUST0637,63,Zomato,Weekly,Fast Food,Night,Slow,3.1494425587620616,Credit Card,Yes,4.548775199245378,Large
+CUST0638,62,Swiggy,Monthly,Beverages,Evening,Slow,1.6321824427095657,Credit Card,Yes,1.521941620992381,Medium
+CUST0639,42,Zomato,Weekly,Healthy Food,Morning,Fast,1.1162609006482778,Cash on Delivery,Yes,3.970349746997211,Large
+CUST0640,49,Uber Eats,Daily,Desserts,Night,Medium,3.0596148704309787,Credit Card,No,1.4814173889469782,Large
+CUST0641,43,Uber Eats,Daily,Fast Food,Afternoon,Fast,1.283437993975853,Cash on Delivery,No,3.3462458243468456,Large
+CUST0642,33,Swiggy,Occasionally,Healthy Food,Night,Slow,1.941199324172827,UPI,Yes,4.648707326771062,Small
+CUST0643,27,Zomato,Daily,Desserts,Night,Fast,2.7792835710259274,Debit Card,No,3.6174206381264074,Large
+CUST0644,59,Uber Eats,Weekly,Desserts,Evening,Medium,3.31904710310615,Debit Card,Yes,1.761734401968941,Large
+CUST0645,62,Zomato,Weekly,Healthy Food,Morning,Medium,2.6762650966272172,Cash on Delivery,Yes,3.818640215568834,Medium
+CUST0646,18,Uber Eats,Daily,Fast Food,Night,Slow,3.988347014094965,Credit Card,Yes,4.702002558071536,Large
+CUST0647,24,Uber Eats,Daily,Desserts,Afternoon,Medium,4.593491027524619,Credit Card,No,1.299518404657185,Medium
+CUST0648,45,Uber Eats,Daily,Beverages,Evening,Medium,1.920252942412355,Debit Card,No,3.1863160913887727,Medium
+CUST0649,32,Swiggy,Occasionally,Fast Food,Night,Slow,1.4405314721504516,Debit Card,No,2.371591875001085,Medium
+CUST0650,29,Uber Eats,Daily,Desserts,Afternoon,Fast,1.9111282556672133,Cash on Delivery,Yes,3.9014026365935357,Small
+CUST0651,62,Zomato,Weekly,Healthy Food,Morning,Fast,1.9484734457060058,Cash on Delivery,No,4.958578460245967,Small
+CUST0652,51,Swiggy,Daily,Healthy Food,Evening,Slow,2.650381829437205,UPI,Yes,1.80799646775596,Small
+CUST0653,47,Swiggy,Occasionally,Fast Food,Night,Fast,1.7998233251432292,Debit Card,No,3.883077864458333,Medium
+CUST0654,21,Uber Eats,Occasionally,Desserts,Evening,Slow,4.565460599084579,Credit Card,No,1.175244424576519,Medium
+CUST0655,53,Swiggy,Weekly,Desserts,Afternoon,Slow,1.294118865459867,UPI,Yes,1.7668269103232785,Small
+CUST0656,33,Uber Eats,Weekly,Fast Food,Morning,Slow,3.340369030368558,Cash on Delivery,Yes,3.2019827279926276,Medium
+CUST0657,25,Zomato,Daily,Fast Food,Morning,Fast,1.217357423618103,Cash on Delivery,Yes,2.0101020303841426,Medium
+CUST0658,47,Swiggy,Weekly,Fast Food,Morning,Fast,2.7434602422994754,UPI,No,4.508301370124672,Small
+CUST0659,26,Uber Eats,Monthly,Beverages,Morning,Medium,1.864660648342583,Debit Card,Yes,4.413753177109004,Small
+CUST0660,47,Swiggy,Weekly,Beverages,Night,Slow,3.437734200209107,UPI,No,4.627259390364469,Medium
+CUST0661,60,Swiggy,Monthly,Beverages,Afternoon,Slow,1.71224306188018,Credit Card,Yes,4.900504629234657,Small
+CUST0662,51,Zomato,Monthly,Healthy Food,Evening,Slow,2.4939403276564063,UPI,No,4.579652111709477,Large
+CUST0663,53,Uber Eats,Weekly,Beverages,Night,Fast,2.830960772032178,Debit Card,No,2.793928880389471,Medium
+CUST0664,56,Uber Eats,Monthly,Beverages,Evening,Medium,1.7766196916109656,Cash on Delivery,No,3.8693034981915035,Large
+CUST0665,38,Zomato,Weekly,Beverages,Morning,Fast,2.4343607418404782,Cash on Delivery,No,4.643396718386583,Medium
+CUST0666,46,Zomato,Weekly,Desserts,Afternoon,Slow,2.0787781239214804,Cash on Delivery,Yes,1.2708339835053866,Small
+CUST0667,57,Uber Eats,Occasionally,Beverages,Night,Slow,2.343565348601692,Cash on Delivery,Yes,2.6760166443515643,Large
+CUST0668,64,Swiggy,Monthly,Fast Food,Evening,Fast,1.128378382093028,UPI,No,4.725329308284647,Small
+CUST0669,50,Zomato,Monthly,Beverages,Evening,Medium,3.2746633309022104,Cash on Delivery,No,3.0154777106906523,Medium
+CUST0670,45,Zomato,Daily,Healthy Food,Night,Fast,2.1224166195542065,Credit Card,No,1.0874995937030052,Small
+CUST0671,53,Swiggy,Weekly,Healthy Food,Evening,Slow,1.4444370821610497,Cash on Delivery,No,3.3966146491214224,Large
+CUST0672,46,Uber Eats,Occasionally,Beverages,Evening,Slow,2.8621371823125754,UPI,No,3.7868249108638445,Large
+CUST0673,28,Swiggy,Occasionally,Fast Food,Night,Slow,2.6728953174114616,Debit Card,Yes,1.5157369461553203,Small
+CUST0674,65,Zomato,Daily,Fast Food,Afternoon,Fast,4.041358332144499,Cash on Delivery,No,1.1817809032143032,Medium
+CUST0675,48,Swiggy,Monthly,Desserts,Night,Fast,1.8794142570021442,Cash on Delivery,Yes,3.2646990734575208,Medium
+CUST0676,46,Uber Eats,Occasionally,Fast Food,Night,Medium,2.1806460500847096,Credit Card,Yes,4.177561520709812,Small
+CUST0677,34,Zomato,Monthly,Desserts,Afternoon,Fast,1.627152496264784,Credit Card,No,3.7752133366522465,Medium
+CUST0678,33,Swiggy,Occasionally,Desserts,Evening,Slow,4.178261597096896,UPI,No,3.9628607873479575,Small
+CUST0679,58,Uber Eats,Occasionally,Fast Food,Night,Fast,4.81104056869531,Cash on Delivery,No,2.5899753122039404,Large
+CUST0680,35,Uber Eats,Weekly,Fast Food,Evening,Medium,4.622312401829227,Debit Card,Yes,3.7387771169087243,Large
+CUST0681,51,Uber Eats,Monthly,Desserts,Evening,Medium,3.3124857834021997,Debit Card,Yes,4.48102287988328,Small
+CUST0682,49,Uber Eats,Occasionally,Healthy Food,Evening,Medium,3.2110225515068773,Cash on Delivery,No,4.886153670399949,Medium
+CUST0683,58,Uber Eats,Weekly,Beverages,Night,Medium,1.9188091780684688,Credit Card,Yes,1.6620728802008906,Large
+CUST0684,33,Uber Eats,Occasionally,Healthy Food,Afternoon,Medium,2.646784569530897,UPI,Yes,4.002911165633153,Small
+CUST0685,35,Zomato,Weekly,Fast Food,Morning,Slow,3.0870751288298783,Cash on Delivery,Yes,2.5366016793995674,Small
+CUST0686,46,Uber Eats,Weekly,Fast Food,Afternoon,Slow,4.448796212543974,Cash on Delivery,No,4.117488693900314,Medium
+CUST0687,22,Uber Eats,Monthly,Desserts,Night,Slow,1.8657704172009488,Credit Card,No,2.603395837760519,Small
+CUST0688,63,Uber Eats,Weekly,Beverages,Afternoon,Medium,2.8939559709128444,Cash on Delivery,Yes,2.085976755825418,Medium
+CUST0689,36,Swiggy,Occasionally,Fast Food,Morning,Fast,2.851051666711893,UPI,Yes,1.736265361416356,Large
+CUST0690,33,Zomato,Daily,Beverages,Afternoon,Fast,1.0580154278879688,Debit Card,No,1.6400122216909518,Medium
+CUST0691,35,Zomato,Occasionally,Healthy Food,Night,Fast,2.712441466336812,Debit Card,No,1.8712308881316408,Medium
+CUST0692,39,Swiggy,Occasionally,Beverages,Evening,Fast,4.4903938843802855,UPI,Yes,3.786886990334431,Medium
+CUST0693,38,Uber Eats,Weekly,Healthy Food,Morning,Fast,1.991325775602339,Debit Card,No,4.516620067615131,Medium
+CUST0694,52,Swiggy,Occasionally,Fast Food,Afternoon,Fast,2.7369948798259207,Cash on Delivery,Yes,4.162587508940568,Medium
+CUST0695,23,Swiggy,Weekly,Fast Food,Night,Slow,1.8896264401621408,UPI,Yes,2.8217639477198646,Small
+CUST0696,26,Swiggy,Monthly,Desserts,Morning,Slow,4.709918725245345,Credit Card,No,3.831016085165118,Large
+CUST0697,27,Zomato,Weekly,Healthy Food,Morning,Medium,4.785009418397239,Credit Card,No,3.1002928095708673,Medium
+CUST0698,32,Zomato,Monthly,Healthy Food,Afternoon,Slow,4.65501888315978,Credit Card,No,2.213640685453268,Medium
+CUST0699,42,Zomato,Daily,Beverages,Night,Slow,4.59300717726581,Credit Card,Yes,1.8813453106988574,Large
+CUST0700,62,Uber Eats,Occasionally,Desserts,Night,Slow,2.6710874134356986,Cash on Delivery,No,3.833018817559321,Small
+CUST0701,27,Uber Eats,Monthly,Desserts,Morning,Fast,1.1768967819231353,Cash on Delivery,Yes,3.208603683683377,Medium
+CUST0702,63,Swiggy,Daily,Desserts,Morning,Slow,4.965094014127631,Credit Card,Yes,1.6844363875368074,Medium
+CUST0703,31,Zomato,Weekly,Healthy Food,Evening,Fast,3.9339052071752065,Cash on Delivery,No,1.1824498633612928,Large
+CUST0704,22,Zomato,Daily,Fast Food,Afternoon,Fast,3.0168653140551016,UPI,Yes,1.9528670993996649,Medium
+CUST0705,44,Uber Eats,Monthly,Fast Food,Evening,Slow,2.702790574166826,UPI,Yes,1.1563627016429705,Medium
+CUST0706,44,Uber Eats,Occasionally,Beverages,Morning,Fast,2.5772806250831284,UPI,No,1.592557905377328,Large
+CUST0707,39,Zomato,Daily,Beverages,Morning,Medium,4.238866084754989,Credit Card,No,4.534409888915912,Small
+CUST0708,52,Zomato,Daily,Healthy Food,Night,Fast,3.78661402527366,Credit Card,No,4.708991829543454,Medium
+CUST0709,47,Uber Eats,Weekly,Fast Food,Night,Slow,1.391996814383309,Credit Card,No,2.081739421885694,Large
+CUST0710,44,Uber Eats,Weekly,Desserts,Evening,Medium,2.9811401736888734,Cash on Delivery,Yes,4.1624852732276905,Small
+CUST0711,21,Zomato,Occasionally,Fast Food,Morning,Fast,1.332366095736234,Debit Card,No,3.5696524971730605,Small
+CUST0712,31,Swiggy,Weekly,Beverages,Afternoon,Slow,4.012314767015665,Debit Card,Yes,1.9960322972993927,Small
+CUST0713,44,Swiggy,Monthly,Fast Food,Night,Slow,3.7726393560107434,Cash on Delivery,Yes,4.293641066848409,Small
+CUST0714,42,Swiggy,Monthly,Desserts,Night,Medium,2.626472322640833,Credit Card,No,3.138379696493889,Small
+CUST0715,55,Swiggy,Daily,Beverages,Morning,Slow,1.8720259407970903,Credit Card,Yes,1.0055998459054676,Small
+CUST0716,62,Zomato,Weekly,Healthy Food,Afternoon,Slow,2.4336227266726023,Cash on Delivery,Yes,2.3898475954736136,Small
+CUST0717,19,Swiggy,Weekly,Fast Food,Evening,Medium,1.9562495841872747,UPI,No,3.420638143188316,Medium
+CUST0718,54,Swiggy,Daily,Fast Food,Afternoon,Fast,4.995806637130067,UPI,No,2.476440647976454,Large
+CUST0719,42,Uber Eats,Occasionally,Healthy Food,Morning,Medium,1.063720657819001,Cash on Delivery,No,1.332984624696607,Large
+CUST0720,48,Swiggy,Weekly,Healthy Food,Afternoon,Medium,3.676142433429855,Cash on Delivery,No,3.8218468691106553,Medium
+CUST0721,18,Uber Eats,Weekly,Desserts,Afternoon,Medium,1.6472113342077876,UPI,Yes,3.197100289584344,Small
+CUST0722,40,Uber Eats,Occasionally,Fast Food,Morning,Fast,2.8371313469982775,UPI,Yes,3.888318363833773,Small
+CUST0723,37,Zomato,Weekly,Beverages,Evening,Fast,3.2815231903578845,Debit Card,Yes,2.633371528933518,Small
+CUST0724,42,Zomato,Monthly,Fast Food,Afternoon,Fast,3.3346404440526207,Debit Card,No,3.4459281353621285,Small
+CUST0725,44,Zomato,Monthly,Desserts,Morning,Fast,4.905683113778853,Debit Card,Yes,2.298540561952033,Large
+CUST0726,52,Zomato,Occasionally,Beverages,Afternoon,Fast,2.855042569990009,Credit Card,No,1.2290537245856314,Medium
+CUST0727,65,Uber Eats,Occasionally,Beverages,Morning,Medium,1.5544956587016294,UPI,No,4.263688624215369,Large
+CUST0728,65,Zomato,Monthly,Beverages,Evening,Fast,3.812539559762489,Credit Card,Yes,4.295727144345139,Small
+CUST0729,52,Uber Eats,Monthly,Desserts,Night,Medium,1.7397829529600948,Cash on Delivery,Yes,1.8771183708452184,Large
+CUST0730,56,Zomato,Monthly,Fast Food,Evening,Medium,4.486207198215141,Credit Card,Yes,4.860909857740694,Small
+CUST0731,32,Swiggy,Monthly,Beverages,Night,Fast,3.5072438259212904,Credit Card,Yes,1.7069409565921783,Medium
+CUST0732,49,Swiggy,Occasionally,Healthy Food,Night,Slow,3.8156082520902843,Cash on Delivery,Yes,4.886418819893553,Small
+CUST0733,32,Uber Eats,Occasionally,Desserts,Afternoon,Slow,1.005454595696409,Credit Card,No,3.1495547788535827,Small
+CUST0734,35,Swiggy,Daily,Beverages,Morning,Fast,3.5092200955956754,Credit Card,Yes,4.915049548983035,Small
+CUST0735,45,Swiggy,Occasionally,Desserts,Morning,Fast,2.539517071647478,Debit Card,No,4.112743971914556,Medium
+CUST0736,49,Uber Eats,Monthly,Healthy Food,Morning,Fast,3.7630025545628705,Cash on Delivery,Yes,4.122052746512329,Small
+CUST0737,19,Swiggy,Weekly,Beverages,Evening,Fast,3.1236813078139476,Cash on Delivery,Yes,1.4257709301293549,Medium
+CUST0738,42,Swiggy,Monthly,Fast Food,Evening,Medium,2.186359924849935,Cash on Delivery,Yes,3.983079155925375,Medium
+CUST0739,39,Swiggy,Monthly,Desserts,Evening,Slow,4.011552043848913,Cash on Delivery,No,2.527923910190353,Large
+CUST0740,60,Zomato,Occasionally,Beverages,Evening,Medium,3.792219935241207,UPI,Yes,3.6152988748951302,Large
+CUST0741,61,Uber Eats,Daily,Beverages,Afternoon,Slow,3.450004951430413,UPI,No,4.4801031537720455,Medium
+CUST0742,43,Zomato,Weekly,Desserts,Afternoon,Medium,3.3009174702906234,Cash on Delivery,No,3.537222164998701,Medium
+CUST0743,64,Swiggy,Weekly,Healthy Food,Night,Medium,1.828585707774515,UPI,Yes,3.203511214439839,Large
+CUST0744,28,Swiggy,Daily,Desserts,Night,Fast,3.73866072538373,Credit Card,Yes,4.267388118570592,Small
+CUST0745,47,Zomato,Monthly,Fast Food,Morning,Medium,3.4818208480133785,Debit Card,Yes,1.8825561500866121,Small
+CUST0746,26,Swiggy,Occasionally,Healthy Food,Evening,Medium,2.34277870463612,Debit Card,Yes,2.0751740099167413,Large
+CUST0747,57,Uber Eats,Monthly,Fast Food,Afternoon,Fast,4.728973062479843,Credit Card,No,3.326655198031683,Medium
+CUST0748,52,Uber Eats,Weekly,Fast Food,Night,Slow,3.0589459224141304,Debit Card,Yes,4.2309318440622485,Small
+CUST0749,19,Uber Eats,Weekly,Desserts,Morning,Slow,4.640016456683068,Credit Card,Yes,4.011590790613395,Small
+CUST0750,43,Swiggy,Monthly,Beverages,Morning,Medium,2.4559620883458226,Credit Card,No,1.6225659086124868,Medium
+CUST0751,55,Uber Eats,Weekly,Healthy Food,Evening,Slow,1.2062503132512132,Debit Card,No,1.926892570549604,Small
+CUST0752,54,Uber Eats,Occasionally,Fast Food,Evening,Medium,2.531819980311121,Credit Card,No,3.9051444957823622,Large
+CUST0753,60,Swiggy,Weekly,Beverages,Morning,Medium,2.861411500547333,Debit Card,Yes,2.474560026774829,Medium
+CUST0754,19,Zomato,Occasionally,Beverages,Evening,Slow,1.1634973396531088,Cash on Delivery,Yes,4.60867257353684,Large
+CUST0755,23,Zomato,Monthly,Beverages,Evening,Slow,2.4657319836398184,Debit Card,Yes,1.3747642486083858,Medium
+CUST0756,59,Swiggy,Monthly,Healthy Food,Night,Slow,3.5926906334993376,Debit Card,No,1.726054175477925,Large
+CUST0757,45,Uber Eats,Occasionally,Beverages,Night,Slow,3.819494636863646,Cash on Delivery,Yes,1.7401120905756349,Small
+CUST0758,26,Zomato,Occasionally,Desserts,Night,Slow,3.2430328342120984,Debit Card,Yes,4.449408685449081,Large
+CUST0759,47,Zomato,Occasionally,Fast Food,Afternoon,Slow,4.094302034518497,Credit Card,No,1.755439685870945,Large
+CUST0760,29,Zomato,Weekly,Beverages,Evening,Slow,1.5536232287064675,UPI,Yes,2.9620735330389456,Small
+CUST0761,21,Swiggy,Monthly,Fast Food,Night,Slow,2.3397187065670697,Cash on Delivery,Yes,3.917919968974788,Large
+CUST0762,34,Zomato,Weekly,Healthy Food,Night,Fast,3.1585353050696154,Debit Card,Yes,3.5902570868147685,Medium
+CUST0763,42,Zomato,Weekly,Fast Food,Morning,Slow,3.596153601363106,Cash on Delivery,Yes,1.0841892156052655,Large
+CUST0764,38,Swiggy,Occasionally,Beverages,Night,Fast,3.949520258282063,Cash on Delivery,No,1.6516745950357032,Medium
+CUST0765,31,Swiggy,Weekly,Healthy Food,Morning,Medium,4.009108560684901,Credit Card,Yes,1.7109370773285386,Medium
+CUST0766,47,Swiggy,Daily,Healthy Food,Evening,Medium,4.484525530311576,Credit Card,Yes,2.5767893400003556,Medium
+CUST0767,38,Zomato,Daily,Healthy Food,Morning,Fast,3.8113744619427314,Debit Card,No,3.43128830754304,Large
+CUST0768,39,Zomato,Daily,Healthy Food,Night,Fast,4.01269399359872,Debit Card,Yes,1.277816478715013,Medium
+CUST0769,42,Swiggy,Daily,Healthy Food,Afternoon,Slow,4.043543613715089,Cash on Delivery,Yes,1.2881947584865996,Small
+CUST0770,35,Uber Eats,Daily,Fast Food,Afternoon,Slow,2.2818552658769984,Cash on Delivery,Yes,1.9810153381533668,Small
+CUST0771,44,Swiggy,Occasionally,Beverages,Evening,Medium,4.591732152323658,Cash on Delivery,Yes,4.63652421966549,Medium
+CUST0772,34,Zomato,Weekly,Fast Food,Night,Slow,3.0142638886042454,Credit Card,Yes,4.881541860178241,Medium
+CUST0773,23,Zomato,Weekly,Beverages,Evening,Fast,2.6917165004356303,Cash on Delivery,Yes,1.400935194620696,Large
+CUST0774,48,Swiggy,Daily,Healthy Food,Morning,Slow,1.2178399879744402,Debit Card,Yes,3.1071141999152685,Small
+CUST0775,19,Uber Eats,Weekly,Healthy Food,Evening,Medium,2.491255114830332,Debit Card,No,3.907058499766713,Medium
+CUST0776,65,Uber Eats,Daily,Desserts,Afternoon,Slow,2.809642597622481,UPI,Yes,4.231970906608955,Large
+CUST0777,52,Zomato,Weekly,Desserts,Evening,Slow,3.0058003820980366,Cash on Delivery,No,3.4131740659394842,Small
+CUST0778,21,Uber Eats,Occasionally,Fast Food,Morning,Fast,4.318239305100126,Credit Card,No,2.511500519036965,Large
+CUST0779,40,Uber Eats,Monthly,Fast Food,Night,Fast,2.880655399257698,UPI,Yes,1.0828636619459244,Large
+CUST0780,32,Uber Eats,Daily,Beverages,Evening,Medium,3.127617915818342,Credit Card,Yes,4.3062489930853864,Large
+CUST0781,59,Swiggy,Occasionally,Beverages,Morning,Medium,4.301516071941121,Credit Card,No,4.053783024266872,Small
+CUST0782,22,Zomato,Occasionally,Desserts,Afternoon,Medium,4.597804793484936,Cash on Delivery,No,3.577928451737098,Large
+CUST0783,59,Swiggy,Daily,Desserts,Night,Medium,2.8079135304972906,Cash on Delivery,Yes,1.1749601701551389,Small
+CUST0784,20,Uber Eats,Daily,Beverages,Evening,Medium,2.4725834071607546,Cash on Delivery,Yes,1.9933717778360136,Small
+CUST0785,19,Zomato,Occasionally,Fast Food,Evening,Medium,3.6932259185721072,UPI,Yes,1.3343821843760155,Medium
+CUST0786,33,Swiggy,Daily,Beverages,Afternoon,Fast,3.772892350220557,Credit Card,Yes,1.5705424230873102,Small
+CUST0787,30,Zomato,Daily,Fast Food,Evening,Medium,4.9123377782367434,Cash on Delivery,No,3.5095375060927028,Small
+CUST0788,19,Swiggy,Monthly,Beverages,Afternoon,Medium,4.5325213094242685,Cash on Delivery,No,1.0539876160740977,Small
+CUST0789,57,Zomato,Monthly,Healthy Food,Afternoon,Slow,1.7534143296451332,Cash on Delivery,Yes,4.865443051141386,Large
+CUST0790,27,Swiggy,Daily,Healthy Food,Night,Fast,4.5359159248433745,Cash on Delivery,Yes,4.830470764388463,Small
+CUST0791,33,Uber Eats,Occasionally,Fast Food,Afternoon,Slow,1.3492350006154297,Debit Card,No,1.425355778407161,Medium
+CUST0792,26,Swiggy,Weekly,Fast Food,Afternoon,Slow,2.5627300112827376,Credit Card,No,3.9445260410980985,Medium
+CUST0793,48,Uber Eats,Daily,Fast Food,Afternoon,Fast,1.715247282039305,Credit Card,Yes,2.353559668443209,Small
+CUST0794,60,Swiggy,Daily,Desserts,Evening,Medium,4.83302602042636,Cash on Delivery,No,3.829823019652521,Medium
+CUST0795,25,Uber Eats,Weekly,Desserts,Afternoon,Slow,1.3077892395664725,UPI,Yes,1.8092865687379267,Small
+CUST0796,54,Uber Eats,Weekly,Beverages,Afternoon,Medium,1.6590648673755743,Credit Card,No,2.921701722135298,Medium
+CUST0797,31,Swiggy,Weekly,Desserts,Afternoon,Fast,1.4480983226621778,UPI,Yes,3.251404937874981,Small
+CUST0798,47,Swiggy,Monthly,Beverages,Afternoon,Slow,1.5918161718943336,Cash on Delivery,Yes,2.777304792865065,Large
+CUST0799,62,Zomato,Monthly,Beverages,Evening,Slow,1.601992275565658,Cash on Delivery,No,1.6525777669961745,Large
+CUST0800,34,Swiggy,Monthly,Beverages,Afternoon,Fast,1.8170246339049227,Credit Card,No,2.3270252787741534,Large
+CUST0801,41,Zomato,Occasionally,Fast Food,Morning,Fast,4.80841906748045,Cash on Delivery,Yes,1.618053294533755,Medium
+CUST0802,28,Swiggy,Daily,Healthy Food,Morning,Slow,1.0907610742202234,UPI,Yes,1.2235020263053902,Medium
+CUST0803,56,Zomato,Monthly,Desserts,Morning,Slow,2.6661466351024687,Cash on Delivery,Yes,3.7681647916870307,Large
+CUST0804,56,Uber Eats,Occasionally,Beverages,Night,Slow,3.7296134990881367,Cash on Delivery,No,3.5099434120539694,Medium
+CUST0805,65,Swiggy,Occasionally,Healthy Food,Morning,Fast,4.726885888934951,Credit Card,No,1.492302060759303,Large
+CUST0806,63,Uber Eats,Weekly,Beverages,Morning,Medium,2.8956196709483932,Debit Card,No,4.299699605838235,Small
+CUST0807,25,Swiggy,Weekly,Fast Food,Night,Medium,2.6805198920923483,UPI,Yes,1.4112612469387678,Large
+CUST0808,28,Zomato,Monthly,Beverages,Evening,Medium,3.9508369757141004,Debit Card,Yes,2.18695396490592,Small
+CUST0809,37,Swiggy,Daily,Desserts,Evening,Medium,1.0859291938399314,Cash on Delivery,No,3.046169665052201,Small
+CUST0810,24,Zomato,Daily,Healthy Food,Night,Fast,1.7562426347419473,UPI,Yes,4.345933539130827,Small
+CUST0811,55,Zomato,Daily,Fast Food,Evening,Fast,1.0881464741168525,Cash on Delivery,No,1.5673401058080914,Medium
+CUST0812,19,Swiggy,Occasionally,Beverages,Night,Medium,4.207956410417797,Debit Card,No,4.648667848834775,Medium
+CUST0813,37,Uber Eats,Occasionally,Desserts,Afternoon,Slow,4.339790074451229,Debit Card,Yes,1.0960034795604687,Medium
+CUST0814,54,Swiggy,Occasionally,Desserts,Evening,Slow,3.0784819318256385,UPI,No,2.7085417325908856,Large
+CUST0815,61,Uber Eats,Occasionally,Fast Food,Night,Fast,2.3435094777253784,Cash on Delivery,Yes,1.5895060406121582,Large
+CUST0816,42,Zomato,Daily,Desserts,Afternoon,Medium,3.3148184222815176,Debit Card,No,3.6214583899630965,Small
+CUST0817,43,Swiggy,Daily,Desserts,Afternoon,Fast,3.623042006672955,UPI,No,1.9035375690964136,Medium
+CUST0818,63,Swiggy,Weekly,Desserts,Morning,Medium,4.14729745168407,Cash on Delivery,Yes,4.515960415733382,Small
+CUST0819,30,Uber Eats,Daily,Desserts,Night,Medium,2.9445935664581433,Cash on Delivery,No,2.5389752294649566,Small
+CUST0820,22,Swiggy,Occasionally,Beverages,Night,Slow,3.6634213834066265,UPI,Yes,4.536895654048061,Medium
+CUST0821,55,Zomato,Occasionally,Fast Food,Morning,Slow,3.1206649196716505,Cash on Delivery,No,4.291139480519732,Medium
+CUST0822,62,Swiggy,Monthly,Healthy Food,Evening,Slow,3.193874849237689,Debit Card,No,1.449634685868638,Small
+CUST0823,58,Zomato,Daily,Healthy Food,Night,Fast,2.832028368237088,Debit Card,Yes,1.678236245833875,Large
+CUST0824,33,Zomato,Daily,Desserts,Afternoon,Slow,3.269006643651552,UPI,Yes,1.4405426151908176,Medium
+CUST0825,24,Uber Eats,Weekly,Beverages,Night,Slow,4.593127691428311,Credit Card,Yes,1.4069450186630035,Large
+CUST0826,62,Uber Eats,Weekly,Desserts,Morning,Fast,2.2259800187270975,Cash on Delivery,Yes,4.823396273905464,Large
+CUST0827,37,Zomato,Occasionally,Desserts,Night,Fast,4.1570708233120275,Debit Card,Yes,2.4292316161480527,Small
+CUST0828,61,Uber Eats,Monthly,Beverages,Evening,Fast,1.9071277524305317,Debit Card,No,3.4627870718754763,Small
+CUST0829,56,Uber Eats,Daily,Fast Food,Morning,Slow,2.487609266362311,Debit Card,Yes,1.4734038818029611,Medium
+CUST0830,25,Zomato,Daily,Healthy Food,Morning,Medium,2.15258517175167,Debit Card,No,4.6932784296483465,Small
+CUST0831,54,Swiggy,Monthly,Beverages,Afternoon,Slow,4.382054836968152,Cash on Delivery,Yes,4.679494413280615,Large
+CUST0832,20,Swiggy,Daily,Healthy Food,Night,Medium,1.5933533416128425,Credit Card,Yes,4.58234596381625,Small
+CUST0833,40,Uber Eats,Weekly,Beverages,Morning,Fast,2.1375281350590742,Cash on Delivery,Yes,3.4180255279273677,Small
+CUST0834,52,Uber Eats,Monthly,Beverages,Evening,Slow,4.824855421971174,Cash on Delivery,Yes,1.7122711070963264,Small
+CUST0835,45,Zomato,Daily,Desserts,Evening,Slow,3.4745209194460998,UPI,No,3.121922562564732,Medium
+CUST0836,60,Zomato,Weekly,Fast Food,Evening,Medium,1.6431595299187949,Debit Card,No,3.398445939462348,Small
+CUST0837,41,Zomato,Weekly,Healthy Food,Afternoon,Slow,3.141266741908985,Debit Card,No,3.717733246840374,Medium
+CUST0838,22,Zomato,Occasionally,Fast Food,Evening,Slow,1.729122041857424,Credit Card,Yes,1.600880142841266,Small
+CUST0839,50,Swiggy,Daily,Desserts,Afternoon,Slow,1.7014373791018627,Credit Card,Yes,3.669093539928219,Medium
+CUST0840,59,Zomato,Monthly,Beverages,Evening,Fast,3.8324446288603324,UPI,No,2.2062550671326595,Large
+CUST0841,39,Zomato,Weekly,Healthy Food,Night,Medium,4.618844588588356,UPI,Yes,4.27025017997639,Large
+CUST0842,18,Uber Eats,Weekly,Fast Food,Evening,Slow,4.177829121157074,UPI,Yes,2.3935427330554178,Medium
+CUST0843,44,Zomato,Occasionally,Healthy Food,Evening,Medium,1.6450188528867162,Debit Card,Yes,1.41569025132338,Medium
+CUST0844,49,Uber Eats,Monthly,Healthy Food,Afternoon,Fast,1.4676693392143085,Debit Card,No,4.664937421657168,Medium
+CUST0845,24,Zomato,Occasionally,Healthy Food,Night,Fast,4.975092152256543,Credit Card,No,3.6469268610808996,Small
+CUST0846,45,Zomato,Weekly,Fast Food,Night,Medium,3.298100683882043,Credit Card,Yes,4.7315273364007755,Large
+CUST0847,41,Uber Eats,Daily,Healthy Food,Afternoon,Slow,2.763554551017499,UPI,No,4.24287765940978,Small
+CUST0848,58,Swiggy,Monthly,Fast Food,Night,Slow,2.4786885733752424,Cash on Delivery,No,3.8452267288769346,Medium
+CUST0849,47,Swiggy,Daily,Beverages,Evening,Fast,1.8206214476372966,Credit Card,Yes,1.3054779705064332,Medium
+CUST0850,63,Uber Eats,Daily,Fast Food,Evening,Fast,3.8285375247803057,Debit Card,No,1.0087150592122662,Small
+CUST0851,27,Uber Eats,Occasionally,Desserts,Night,Fast,3.6622131263298914,Credit Card,No,4.73237979346661,Small
+CUST0852,45,Swiggy,Weekly,Healthy Food,Evening,Fast,4.912090252156466,Debit Card,Yes,1.5945717924172889,Medium
+CUST0853,29,Uber Eats,Daily,Desserts,Night,Slow,1.5917768589530863,Cash on Delivery,Yes,3.6234164877709474,Large
+CUST0854,64,Uber Eats,Monthly,Desserts,Afternoon,Fast,2.7937163871486956,UPI,No,2.2810240133935267,Medium
+CUST0855,51,Uber Eats,Occasionally,Beverages,Afternoon,Medium,4.901862715560126,UPI,No,2.5623982979862507,Large
+CUST0856,59,Uber Eats,Monthly,Beverages,Afternoon,Medium,3.134571829484694,UPI,Yes,3.8853738545432903,Medium
+CUST0857,35,Uber Eats,Daily,Fast Food,Morning,Medium,1.4859600937495818,Credit Card,Yes,4.142184376011468,Small
+CUST0858,57,Swiggy,Monthly,Fast Food,Evening,Slow,1.0997008205819823,UPI,Yes,2.9137280528142977,Medium
+CUST0859,52,Uber Eats,Occasionally,Healthy Food,Afternoon,Medium,4.724275663477686,Debit Card,Yes,1.269254538809181,Medium
+CUST0860,48,Swiggy,Occasionally,Desserts,Night,Medium,4.074072663348433,Credit Card,Yes,3.311371517999564,Medium
+CUST0861,47,Zomato,Weekly,Beverages,Night,Slow,4.79115621620538,Credit Card,No,4.83834125777208,Small
+CUST0862,45,Swiggy,Monthly,Beverages,Afternoon,Fast,4.7112451589172455,Cash on Delivery,No,2.1139045698841756,Small
+CUST0863,64,Zomato,Occasionally,Healthy Food,Afternoon,Fast,1.6242130698053328,Cash on Delivery,Yes,1.361788073869151,Large
+CUST0864,55,Swiggy,Occasionally,Beverages,Afternoon,Fast,4.880600653245896,Credit Card,No,4.979086730704777,Medium
+CUST0865,35,Swiggy,Weekly,Desserts,Night,Fast,3.1845823519110987,Credit Card,Yes,1.7274893452982725,Large
+CUST0866,38,Uber Eats,Occasionally,Desserts,Morning,Fast,3.0296361247086714,Credit Card,Yes,2.540069590586685,Medium
+CUST0867,33,Swiggy,Daily,Healthy Food,Afternoon,Slow,3.5889758081868695,Credit Card,No,2.2772631196441195,Small
+CUST0868,23,Swiggy,Monthly,Desserts,Night,Medium,2.1822274766537744,Credit Card,Yes,2.6953282797720592,Medium
+CUST0869,35,Uber Eats,Weekly,Fast Food,Night,Fast,4.583909818226909,Debit Card,Yes,3.773683338548209,Small
+CUST0870,46,Zomato,Daily,Desserts,Afternoon,Medium,4.878422228813455,Credit Card,Yes,2.6557773829025955,Medium
+CUST0871,33,Swiggy,Daily,Fast Food,Evening,Medium,4.01664662303596,Debit Card,Yes,4.174006361860162,Small
+CUST0872,47,Uber Eats,Monthly,Beverages,Night,Medium,4.976262944153773,UPI,Yes,2.333860580272116,Large
+CUST0873,54,Zomato,Weekly,Fast Food,Evening,Slow,3.6675509258235532,Debit Card,Yes,4.208563713551469,Medium
+CUST0874,57,Swiggy,Occasionally,Healthy Food,Evening,Fast,4.1983046998152584,UPI,Yes,3.615816888857034,Large
+CUST0875,60,Swiggy,Weekly,Healthy Food,Morning,Slow,3.9141751500034565,Cash on Delivery,Yes,1.9836324865575197,Large
+CUST0876,42,Swiggy,Occasionally,Healthy Food,Night,Medium,4.6891684067876795,Cash on Delivery,Yes,2.6746385261219516,Medium
+CUST0877,39,Zomato,Monthly,Healthy Food,Morning,Fast,2.3547377195700103,Credit Card,Yes,2.988409177623607,Large
+CUST0878,19,Zomato,Monthly,Healthy Food,Afternoon,Fast,1.4492624918115293,Debit Card,Yes,3.1350825873792587,Medium
+CUST0879,49,Swiggy,Daily,Desserts,Morning,Slow,2.9159249335579416,UPI,No,3.129897729641573,Small
+CUST0880,38,Swiggy,Daily,Beverages,Afternoon,Slow,1.1603236537999893,UPI,No,4.285616792145804,Large
+CUST0881,29,Zomato,Daily,Fast Food,Evening,Medium,3.712033347814083,Debit Card,No,2.538509013760618,Small
+CUST0882,49,Uber Eats,Monthly,Fast Food,Night,Medium,1.4675043913150487,Credit Card,Yes,3.323855749217303,Large
+CUST0883,31,Zomato,Occasionally,Beverages,Morning,Medium,1.0991823792943332,Debit Card,Yes,2.6873630442305187,Small
+CUST0884,40,Uber Eats,Monthly,Healthy Food,Night,Medium,3.470087970521358,Cash on Delivery,Yes,3.3115057580647633,Small
+CUST0885,34,Uber Eats,Monthly,Healthy Food,Evening,Fast,1.8814591898313964,Cash on Delivery,No,3.773995811083677,Small
+CUST0886,39,Uber Eats,Daily,Fast Food,Evening,Slow,2.429574194326434,Credit Card,Yes,3.9931339984933727,Small
+CUST0887,35,Swiggy,Weekly,Healthy Food,Evening,Slow,2.3054658786962516,Debit Card,Yes,3.8123732533231443,Small
+CUST0888,56,Swiggy,Daily,Desserts,Evening,Fast,3.4326048386488153,Cash on Delivery,No,1.9407722759756276,Small
+CUST0889,62,Uber Eats,Weekly,Desserts,Evening,Fast,1.7805989856550526,UPI,No,1.0114644230389493,Large
+CUST0890,35,Uber Eats,Occasionally,Desserts,Evening,Slow,3.1057353681964828,UPI,No,4.975621248799417,Medium
+CUST0891,53,Uber Eats,Occasionally,Beverages,Morning,Medium,4.125133423079999,Debit Card,Yes,1.068618606400443,Small
+CUST0892,18,Zomato,Occasionally,Beverages,Night,Slow,4.068380483327125,Credit Card,No,3.233497872171591,Small
+CUST0893,51,Swiggy,Daily,Desserts,Morning,Slow,1.7828626937433674,UPI,No,4.8304630855796535,Large
+CUST0894,30,Uber Eats,Daily,Beverages,Evening,Slow,1.3343582015756454,UPI,Yes,4.683616403047928,Small
+CUST0895,23,Uber Eats,Daily,Desserts,Afternoon,Fast,4.3978055550294535,Cash on Delivery,No,1.2383095595646476,Medium
+CUST0896,33,Zomato,Monthly,Healthy Food,Afternoon,Fast,3.7082535526620677,UPI,No,2.397390137936429,Small
+CUST0897,64,Swiggy,Daily,Beverages,Evening,Fast,4.830494793873338,Debit Card,No,4.395005996505294,Large
+CUST0898,44,Uber Eats,Monthly,Desserts,Evening,Fast,4.9033580276902775,Debit Card,Yes,4.467090033848491,Large
+CUST0899,49,Swiggy,Occasionally,Beverages,Evening,Fast,2.5776944516435276,Cash on Delivery,No,4.276041809897103,Large
+CUST0900,53,Uber Eats,Daily,Fast Food,Night,Slow,2.9618614410685837,Debit Card,No,2.178789152514588,Medium
+CUST0901,33,Zomato,Monthly,Fast Food,Night,Medium,3.4126874984824007,Debit Card,No,1.5765609692112306,Medium
+CUST0902,62,Zomato,Occasionally,Desserts,Morning,Fast,3.046223370534246,Cash on Delivery,No,4.413248823627841,Medium
+CUST0903,48,Swiggy,Occasionally,Desserts,Night,Fast,1.2241904708280247,Cash on Delivery,Yes,4.887278405765944,Small
+CUST0904,59,Zomato,Daily,Desserts,Evening,Fast,3.6670655417759677,Cash on Delivery,No,4.651815635594039,Small
+CUST0905,63,Swiggy,Weekly,Fast Food,Night,Slow,2.5902319892628767,Cash on Delivery,Yes,1.969989633880179,Large
+CUST0906,49,Uber Eats,Weekly,Beverages,Afternoon,Slow,3.8638550893605967,UPI,No,4.311287230985975,Large
+CUST0907,46,Zomato,Occasionally,Fast Food,Afternoon,Slow,2.7105619123467792,Credit Card,No,1.2234626635013628,Medium
+CUST0908,19,Uber Eats,Weekly,Desserts,Evening,Medium,2.5444504729757056,Cash on Delivery,Yes,1.5512052511345087,Medium
+CUST0909,23,Uber Eats,Weekly,Desserts,Night,Medium,1.0487631644204365,Debit Card,No,4.8482079415256,Small
+CUST0910,36,Zomato,Monthly,Desserts,Night,Fast,2.3796808526323745,Credit Card,Yes,3.8158514244281223,Small
+CUST0911,32,Zomato,Monthly,Desserts,Morning,Fast,2.2323413782573827,Credit Card,Yes,2.50984313288574,Small
+CUST0912,43,Zomato,Monthly,Desserts,Morning,Fast,2.7823041640013972,Credit Card,No,1.1053875296152391,Medium
+CUST0913,62,Uber Eats,Occasionally,Desserts,Afternoon,Medium,3.2441320445417947,UPI,No,4.85965277030196,Large
+CUST0914,33,Swiggy,Weekly,Healthy Food,Evening,Fast,1.862780622477929,UPI,No,2.486736925068001,Medium
+CUST0915,37,Swiggy,Daily,Healthy Food,Afternoon,Fast,4.55121950638951,Cash on Delivery,No,3.8056070538166114,Large
+CUST0916,60,Uber Eats,Weekly,Healthy Food,Evening,Slow,3.966110706108724,Debit Card,No,3.650989281583043,Large
+CUST0917,55,Uber Eats,Occasionally,Fast Food,Evening,Medium,2.6624391020442695,Cash on Delivery,No,1.2950811826237012,Medium
+CUST0918,41,Uber Eats,Monthly,Beverages,Evening,Slow,2.770017453689397,Credit Card,No,4.349748778162171,Large
+CUST0919,48,Zomato,Occasionally,Desserts,Evening,Slow,1.6551613749764198,Cash on Delivery,No,4.481907908862031,Small
+CUST0920,53,Swiggy,Monthly,Healthy Food,Night,Slow,3.912002681802531,Credit Card,Yes,1.1207429214384157,Small
+CUST0921,51,Swiggy,Occasionally,Fast Food,Evening,Slow,4.590894443506961,Debit Card,No,2.4609768730782715,Small
+CUST0922,40,Swiggy,Daily,Beverages,Night,Slow,3.914422061932946,Credit Card,Yes,1.3159731699539958,Large
+CUST0923,45,Swiggy,Monthly,Desserts,Evening,Slow,2.6567751508822344,UPI,No,1.30826118625634,Large
+CUST0924,65,Swiggy,Monthly,Desserts,Night,Slow,4.342046129321458,Cash on Delivery,Yes,3.2767326185425514,Large
+CUST0925,53,Swiggy,Weekly,Beverages,Night,Fast,3.391742828073441,Cash on Delivery,Yes,4.254845035567726,Medium
+CUST0926,39,Uber Eats,Occasionally,Beverages,Afternoon,Medium,1.5745571317608293,UPI,Yes,1.5988688995068578,Large
+CUST0927,40,Uber Eats,Weekly,Beverages,Afternoon,Slow,2.2129245541874503,UPI,Yes,1.7296980461408116,Medium
+CUST0928,62,Zomato,Occasionally,Fast Food,Morning,Slow,4.953529711589987,UPI,Yes,3.9742317539487,Large
+CUST0929,47,Uber Eats,Daily,Healthy Food,Afternoon,Medium,3.101204186279724,Credit Card,No,3.9924284972980626,Small
+CUST0930,35,Uber Eats,Weekly,Desserts,Afternoon,Fast,2.3416669686471154,UPI,No,3.7942557021607684,Small
+CUST0931,37,Swiggy,Monthly,Healthy Food,Evening,Fast,4.732611982825258,Debit Card,No,2.1980307838375714,Medium
+CUST0932,34,Zomato,Daily,Beverages,Morning,Medium,3.3627155648503915,Cash on Delivery,No,2.6460899329947654,Large
+CUST0933,32,Swiggy,Occasionally,Desserts,Afternoon,Medium,2.5030896392002187,Cash on Delivery,No,2.3493479622594604,Small
+CUST0934,25,Zomato,Monthly,Desserts,Afternoon,Medium,1.0264754715401123,Debit Card,No,4.125587631608461,Small
+CUST0935,64,Uber Eats,Occasionally,Healthy Food,Night,Medium,3.555223998856857,Cash on Delivery,No,3.7809880975845283,Small
+CUST0936,30,Uber Eats,Monthly,Healthy Food,Morning,Fast,2.0933154348884226,UPI,No,2.147076282240947,Medium
+CUST0937,38,Swiggy,Occasionally,Desserts,Morning,Medium,1.6995720432941268,Cash on Delivery,No,1.6235493439436195,Medium
+CUST0938,25,Swiggy,Monthly,Fast Food,Morning,Slow,2.848479858346194,Debit Card,Yes,4.524628568960853,Small
+CUST0939,65,Swiggy,Occasionally,Beverages,Night,Fast,3.2716652976049105,UPI,No,1.1284764291099783,Small
+CUST0940,52,Uber Eats,Weekly,Healthy Food,Morning,Medium,4.65948844364068,Credit Card,Yes,4.004531716513044,Large
+CUST0941,62,Uber Eats,Monthly,Desserts,Morning,Medium,1.7970302458407406,Credit Card,Yes,3.0131816911801335,Medium
+CUST0942,29,Uber Eats,Monthly,Healthy Food,Night,Fast,4.329134892874048,UPI,No,1.0434703050968253,Medium
+CUST0943,30,Zomato,Weekly,Desserts,Morning,Fast,2.1578526661952413,Cash on Delivery,Yes,4.330720377672337,Medium
+CUST0944,31,Swiggy,Occasionally,Fast Food,Morning,Slow,2.9623424721429616,Debit Card,Yes,3.719614176399766,Small
+CUST0945,65,Zomato,Monthly,Healthy Food,Evening,Medium,4.291196877546557,UPI,No,4.503906054922834,Small
+CUST0946,48,Uber Eats,Weekly,Desserts,Afternoon,Medium,2.2079715977485534,Debit Card,No,3.216623685103856,Medium
+CUST0947,35,Uber Eats,Occasionally,Healthy Food,Morning,Slow,3.340833017346691,Credit Card,No,4.318072922767828,Small
+CUST0948,64,Zomato,Monthly,Desserts,Night,Medium,2.9764019417548493,UPI,No,4.676600920321498,Small
+CUST0949,55,Swiggy,Monthly,Beverages,Evening,Slow,3.959424092276449,UPI,No,3.007489749969064,Large
+CUST0950,51,Swiggy,Occasionally,Desserts,Afternoon,Fast,1.8980808862102032,Debit Card,Yes,3.837411261418904,Small
+CUST0951,56,Uber Eats,Weekly,Desserts,Afternoon,Slow,4.164878189636667,Credit Card,No,2.6946810463503073,Large
+CUST0952,36,Uber Eats,Monthly,Desserts,Evening,Fast,1.6160958785616462,Credit Card,No,1.6272025487371562,Medium
+CUST0953,24,Uber Eats,Occasionally,Desserts,Night,Slow,2.2006776319750125,UPI,Yes,4.892489316819207,Medium
+CUST0954,30,Swiggy,Monthly,Beverages,Afternoon,Fast,3.5622208367062527,Debit Card,Yes,3.0860041790473542,Large
+CUST0955,36,Zomato,Occasionally,Fast Food,Afternoon,Fast,3.5462433240574947,UPI,No,4.911705134840997,Small
+CUST0956,32,Uber Eats,Monthly,Beverages,Afternoon,Slow,1.4967076973263311,Cash on Delivery,Yes,1.500533424113236,Medium
+CUST0957,41,Uber Eats,Daily,Fast Food,Morning,Slow,3.663653847357229,Credit Card,No,1.8474569738031152,Small
+CUST0958,29,Zomato,Weekly,Fast Food,Morning,Slow,2.1507561331140033,Credit Card,Yes,3.476175041675473,Medium
+CUST0959,37,Swiggy,Weekly,Beverages,Evening,Slow,1.7174892274107485,UPI,Yes,1.8756256518450662,Small
+CUST0960,18,Uber Eats,Daily,Healthy Food,Evening,Fast,4.627172788615321,UPI,No,1.7347750908882902,Small
+CUST0961,63,Swiggy,Occasionally,Fast Food,Night,Medium,3.579143382452436,UPI,No,3.9839829497333583,Small
+CUST0962,52,Uber Eats,Weekly,Beverages,Night,Slow,1.1137703394697502,Credit Card,Yes,3.237177151593071,Large
+CUST0963,26,Swiggy,Occasionally,Desserts,Evening,Slow,4.0588734232549974,Credit Card,No,4.366851957953251,Large
+CUST0964,35,Zomato,Monthly,Beverages,Night,Slow,2.972200900147347,Credit Card,Yes,4.266235342396098,Medium
+CUST0965,20,Uber Eats,Daily,Fast Food,Afternoon,Slow,4.882501306138183,Cash on Delivery,Yes,2.873744382781275,Small
+CUST0966,21,Uber Eats,Occasionally,Healthy Food,Afternoon,Medium,3.3955652935971488,UPI,Yes,2.252758641621469,Large
+CUST0967,53,Uber Eats,Occasionally,Healthy Food,Night,Medium,2.4470380419810343,Credit Card,Yes,3.567563337239619,Large
+CUST0968,36,Uber Eats,Weekly,Healthy Food,Night,Slow,2.9219436218015726,Cash on Delivery,Yes,4.309014719142617,Small
+CUST0969,62,Uber Eats,Monthly,Desserts,Evening,Medium,2.7442740460737323,UPI,No,1.6592974381050958,Small
+CUST0970,26,Zomato,Weekly,Beverages,Evening,Medium,2.0316461511849178,Debit Card,No,4.213357042416279,Small
+CUST0971,58,Uber Eats,Monthly,Beverages,Night,Slow,3.7436513446581574,Debit Card,Yes,3.586588782793936,Small
+CUST0972,49,Uber Eats,Weekly,Healthy Food,Afternoon,Slow,4.897034993596229,UPI,Yes,1.7789223572587836,Medium
+CUST0973,24,Swiggy,Occasionally,Desserts,Morning,Slow,4.273123178469648,UPI,No,1.4336035282731072,Large
+CUST0974,18,Uber Eats,Occasionally,Healthy Food,Night,Medium,2.492808863893922,UPI,Yes,1.3112343061775453,Medium
+CUST0975,54,Swiggy,Daily,Fast Food,Evening,Fast,3.931829082228651,Debit Card,No,3.412760668361105,Medium
+CUST0976,36,Zomato,Occasionally,Beverages,Evening,Slow,1.0701803220891972,Cash on Delivery,No,4.3864370982489485,Medium
+CUST0977,48,Swiggy,Occasionally,Desserts,Night,Slow,2.0381487358464963,Debit Card,No,1.1121954393246742,Large
+CUST0978,48,Swiggy,Occasionally,Healthy Food,Evening,Medium,3.326617987707567,Credit Card,No,2.128827725731146,Medium
+CUST0979,46,Zomato,Occasionally,Desserts,Afternoon,Slow,1.5845484828853937,UPI,No,3.166271659924523,Large
+CUST0980,39,Zomato,Daily,Fast Food,Evening,Slow,2.8441758715604917,Debit Card,No,1.2612766686651091,Medium
+CUST0981,29,Swiggy,Monthly,Fast Food,Morning,Slow,3.773132179245275,UPI,Yes,3.388443023293525,Large
+CUST0982,21,Swiggy,Daily,Beverages,Morning,Medium,2.429541860917474,Cash on Delivery,Yes,4.026085761478156,Medium
+CUST0983,34,Zomato,Daily,Desserts,Afternoon,Medium,1.2115533135137064,Credit Card,No,2.2364804502649247,Medium
+CUST0984,48,Zomato,Weekly,Healthy Food,Evening,Fast,2.4446537917707563,Debit Card,Yes,3.2067655087031697,Medium
+CUST0985,25,Zomato,Monthly,Healthy Food,Evening,Slow,3.5449885401756944,Cash on Delivery,No,3.5535558441043467,Medium
+CUST0986,22,Zomato,Weekly,Healthy Food,Night,Fast,4.820625434994231,Cash on Delivery,Yes,1.1294671666722045,Small
+CUST0987,43,Zomato,Daily,Beverages,Morning,Slow,1.194859602745062,Credit Card,No,2.0766720499110027,Medium
+CUST0988,49,Swiggy,Occasionally,Fast Food,Night,Medium,2.1666563907150125,Credit Card,No,4.906652586761796,Medium
+CUST0989,22,Zomato,Monthly,Healthy Food,Night,Fast,3.5557861011122767,Credit Card,Yes,3.2591872526667873,Large
+CUST0990,54,Uber Eats,Occasionally,Beverages,Evening,Fast,1.3073067222197796,Cash on Delivery,Yes,3.2549572881011355,Medium
+CUST0991,58,Uber Eats,Daily,Beverages,Morning,Fast,1.7752593388093243,Debit Card,No,4.160902812594383,Large
+CUST0992,61,Uber Eats,Daily,Beverages,Night,Fast,3.512119805313572,Cash on Delivery,Yes,1.182722450734642,Large
+CUST0993,21,Uber Eats,Daily,Beverages,Evening,Medium,4.058757516578098,Debit Card,Yes,2.258321168816415,Large
+CUST0994,27,Zomato,Monthly,Beverages,Afternoon,Slow,3.395049952048913,Cash on Delivery,Yes,4.774036565679456,Medium
+CUST0995,27,Uber Eats,Weekly,Beverages,Morning,Fast,1.6685436828050713,Credit Card,No,1.0339149230880027,Small
+CUST0996,54,Swiggy,Weekly,Fast Food,Evening,Slow,2.2904274425638653,UPI,No,2.4265965745353526,Medium
+CUST0997,37,Uber Eats,Occasionally,Fast Food,Afternoon,Fast,2.2648417302018995,Cash on Delivery,No,2.129608719311327,Large
+CUST0998,23,Zomato,Monthly,Healthy Food,Night,Slow,4.37997954144976,Cash on Delivery,No,2.5925455540483022,Large
+CUST0999,33,Uber Eats,Occasionally,Desserts,Night,Medium,4.199508824976453,UPI,Yes,1.7795348261139523,Large
+CUST1000,25,Swiggy,Occasionally,Fast Food,Night,Medium,2.0858358945084725,Cash on Delivery,Yes,4.0073690828872115,Large
